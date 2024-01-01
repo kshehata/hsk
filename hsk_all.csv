@@ -206,7 +206,7 @@ blunt",0
 1,1,爱,愛,ai4,ài,to love,"to love; to be fond of; to like
 affection
 to be inclined (to do sth); to tend to (happen)",31122
-1,74,年,年,Nian2,nián,year,surname Nian,30648
+1,74,年,年,nian2,nián,year,,30648
 1,82,请,請,qing3,qǐng,"to invite, please (request), to treat","to ask
 to invite
 please (do sth)
@@ -228,7 +228,7 @@ job
 work
 task
 CL:個|个[ge4],份[fen4],項|项[xiang4]",30191
-1,80,钱,錢,Qian2,qián,money,surname Qian,29221
+1,80,钱,錢,qian2,qián,money,,29221
 1,11,吃,吃,chi1,chī,to eat,"to eat
 to consume
 to eat at (a cafeteria etc)
@@ -344,19 +344,19 @@ to gossip
 to tell stories
 talk
 word",8985
-1,75,女儿,女兒,nu:3 er2,nǚ ér,daughter,daughter,8450
+1,75,女儿,女兒,nv3 er2,nǚ ér,daughter,daughter,8450
 1,123,小姐,小姐,xiao3 jie5,xiǎo jie,"young lady, miss","young lady
 miss
 (slang) prostitute
 CL:個|个[ge4],位[wei4]",8423
 1,132,衣服,衣服,yi1 fu5,yī fu,clothes,"clothes
 CL:件[jian4],套[tao4]",8130
-1,99,水,水,Shui3,shuǐ,water,surname Shui,7581
+1,99,水,水,shui3,shuǐ,water,,7581
 1,130,学校,學校,xue2 xiao4,xué xiào,school,"school
 CL:所[suo3]",7502
 1,19,电影,電影,dian4 ying3,diàn yǐng,movie,"movie; film
 CL:部[bu4],片[pian4],幕[mu4],場|场[chang3]",7249
-1,98,书,書,Shu1,shū,book,abbr. for 書經|书经[Shu1 jing1],7152
+1,98,书,書,shu1,shū,book,,7152
 1,103,四,四,si4,sì,"four, 4","four
 4",6979
 1,114,五,五,wu3,wǔ,"five, 5","five
@@ -377,13 +377,12 @@ CL:架[jia4]",5020
 (Beijing dialect) stupid",4849
 1,18,电视,電視,dian4 shi4,diàn shì,"television, TV","television; TV
 CL:臺|台[tai2],個|个[ge4]",4816
-1,22,读,讀,dou4,dú,to read,"comma
-phrase marked by pause",4661
+1,22,读,讀,du2,dú,to read,,4661
 1,40,后面,後面,hou4 mian5,hòu mian,"rear, back, behind, later, afterwards","the back; the rear; the last bit
 behind; near the end; at the back
 later; afterwards",4500
 1,148,昨天,昨天,zuo2 tian1,zuó tiān,yesterday,yesterday,4483
-1,87,日,日,Ri4,rì,sun,"abbr. for 日本[Ri4 ben3], Japan",4114
+1,87,日,日,ri4,rì,day,,4114
 1,101,睡觉,睡覺,shui4 jiao4,shuì jiào,"sleep, to go to bed","to go to bed
 to sleep",3999
 1,59,六,六,liu4,liù,"six, 6","six
@@ -420,14 +419,14 @@ CL:個|个[ge4]
 courtesy or style name traditionally given to males aged 20 in dynastic China",2572
 1,129,学习,學習,xue2 xi2,xué xí,"to learn, to study","to learn
 to study",2385
-1,56,冷,冷,Leng3,lěng,cold,surname Leng,2343
+1,56,冷,冷,leng3,lěng,cold,,2343
 1,81,前面,前面,qian2 mian4,qián miàn,"ahead, in front, preceding","ahead
 in front
 preceding
 above
 also pr. [qian2 mian5]",2158
 1,2,八,八,ba1,bā,"eight, 8",eight; 8,2090
-1,143,中国,中國,Zhong1 guo2,Zhōng guó,China,China,1994
+1,143,中国,中國,zhong1 guo2,Zhōng guó,China,China,1994
 1,79,七,七,qi1,qī,"seven, 7","seven
 7",1972
 1,9,菜,菜,cai4,cài,"dish (type of food), vegetable, cuisine","dish (type of food)
@@ -484,10 +483,10 @@ CL:個|个[ge4],隻|只[zhi1]",541
 1,118,下雨,下雨,xia4 yu3,xià yǔ,to rain,to rain,250
 1,43,火车站,火車站,huo3 che1 zhan4,huǒ chē zhàn,train station,train station,235
 1,66,米饭,米飯,mi3 fan4,mǐ fàn,(cooked) rice,(cooked) rice,147
-1,5,北京,北京,Bei3 jing1,Běi jīng,Beijing,"Beijing, capital of the People's Republic of China",139
+1,5,北京,北京,bei3 jing1,Běi jīng,Beijing,"Beijing, capital of the People's Republic of China",139
 1,28,饭馆,飯館,fan4 guan3,fàn guǎn,restaurant,"restaurant
 CL:家[jia1]",63
-1,35,汉语,漢語,Han4 yu3,Hàn yǔ,Chinese language,"Chinese language
+1,35,汉语,漢語,han4 yu3,Hàn yǔ,Chinese language,"Chinese language
 CL:門|门[men2]",32
 ,,,,,,,,
 2,203,就,就,jiu4,jiù,"at once, in that case, then","(after a suppositional clause) in that case; then
@@ -502,13 +501,10 @@ to undertake; to engage in
 with regard to; concerning
 (pattern: 就[jiu4] ... 也[ye3] ...) even if ... still ...
 (pattern: 不[bu4] ... 就[jiu4] ...) if not ... then must be ...",276636
-2,273,要,要,yao1,yào,"want, shall, will, ask for, need",(bound form) to demand; to coerce,238656
+2,273,要,要,yao4,yào,"want, shall, will, ask for, need",,238656
 2,295,知道,知道,zhi1 dao4,zhī dào,to know,"to know; to become aware of
 also pr. [zhi1 dao5]",196745
-2,151,吧,吧,ba1,ba,"modal particle indicating suggestion or surmise, ...right?, ...OK?, ...I presume.,","bar (loanword) (serving drinks, or providing Internet access etc)
-to puff (on a pipe etc)
-(onom.) bang
-abbr. for 貼吧|贴吧[tie1 ba1]",194084
+2,151,吧,吧,ba5,ba,"modal particle indicating suggestion or surmise, ...right?, ...OK?, ...I presume.,",,194084
 2,169,到,到,dao4,dào,"to reach, to arrive
 to (a place)
 until (a time)","to reach; to arrive
@@ -517,7 +513,7 @@ to (a place); until (a time); up to (a point)
 (verb complement indicating arriving at a place or reaching a point)
 considerate; thoughtful; thorough",139534
 2,274,也,也,ye3,yě,also,surname Ye,131801
-2,186,还,還,hai2,hái,"still, still in progress, still more",surname Huan,130326
+2,186,还,還,hai2,hái,"still, still in progress, still more",,130326
 2,237,让,讓,rang4,ràng,"to let/permit (sb do sth)
 to make/have (sb do or feel sth)","to yield
 to permit
@@ -548,24 +544,21 @@ to allow
 to permit
 ready
 finished",105189
-2,293,真,真,zhen1,zhēn,"really, truly, indeed, real, true, genuine,","really
+2,293,真,真,zhen1,zhēn,"really, truly, indeed","really
 truly
 indeed
 real
 true
 genuine",102445
-2,292,着,著,zhao1,zhe,"aspect particle indicating action in progress,","(chess) move
-trick
-all right!
-(dialect) to add",100091
+2,292,着,著,zhe5,zhe,"aspect particle indicating action in progress,",,100091
 2,209,可以,可以,ke3 yi3,kě yǐ,"can, may, possible, able to,","can
 may
 possible
 able to
 not bad
 pretty good",79198
-2,157,别,別,Bie2,bié,"to leave, to depart, to separate, to distinguish, to classify, other, another, do not, must not, to pin,",surname Bie,69865
-2,298,走,走,zou3,zǒu,"to walk, to go, to run, to move (of vehicle), to visit, to leave, to go away, to die (euph.), from, through, away (in compound verbs, such as 撤走), to change (shape, form, meaning),","to walk
+2,157,别,別,bie2,bié,"do not, must not",,69865
+2,298,走,走,zou3,zǒu,"to walk, to leave","to walk
 to go
 to run
 to move (of vehicle)
@@ -577,15 +570,15 @@ from
 through
 away (in compound verbs, such as 撤走[che4 zou3])
 to change (shape, form, meaning)",65258
-2,179,告诉,告訴,gao4 su4,gào su,"to tell, to inform, to let know,",to press charges; to file a complaint,61222
-2,279,因为,因為,yin1 wei4,yīn wèi,"because, owing to, on account of,","because
+2,179,告诉,告訴,gao4 su5,gào su,to tell,,61222
+2,279,因为,因為,yin1 wei4,yīn wèi,because,"because
 owing to
 on account of",59823
-2,286,再,再,zai4,zài,"again, once more, re-, second, another, then (after sth, and not until then),","again; once more; re-
+2,286,再,再,zai4,zài,"again, once more","again; once more; re-
 second; another
 then (after sth, and not until then)
 no matter how ... (followed by an adjective or verb, and then (usually) 也[ye3] or 都[dou1] for emphasis)",56520
-2,211,快,快,kuai4,kuài,"rapid, quick, speed, rate, soon, almost, to make haste, clever, sharp (of knives or wits), forthright, plain-spoken, gratified, pleased, pleasant,","rapid
+2,211,快,快,kuai4,kuài,"fast, rapid, quick, soon","rapid
 quick
 speed
 rate
@@ -599,21 +592,21 @@ plainspoken
 gratified
 pleased
 pleasant",53510
-2,168,但是,但是,dan4 shi4,dàn shì,"but, however,",but; however,52718
-2,275,已经,已經,yi3 jing1,yǐ jīng,"already,",already,51772
-2,204,觉得,覺得,jue2 de5,jué de,"to think, to feel,","to think that ...; to feel that ...
+2,168,但是,但是,dan4 shi4,dàn shì,"but, however",but; however,52718
+2,275,已经,已經,yi3 jing1,yǐ jīng,already,already,51772
+2,204,觉得,覺得,jue2 de5,jué de,"to think, to feel (that) ...","to think that ...; to feel that ...
 to feel (uncomfortable etc)",51047
-2,248,它,它,ta1,tā,"it,",it,49024
-2,164,从,从,cong2,cóng,"from, via, passing through, through (a gap), past, ever (followed by negative, meaning never), (formerly pr.  and related to 縱|纵) to follow, to comply with, to obey, to join, to engage in, adopting some mode of action or attitude, follower, retainer, accessory, accomplice, related by common paternal grandfather or earlier ancestor,",variant of 從|从[cong2],47313
-2,291,找,找,zhao3,zhǎo,"to try to find, to look for, to call on sb, to find, to seek, to return, to give change,","to try to find
+2,248,它,它,ta1,tā,it,it,49024
+2,164,从,從,cong2,cóng,from,,47313
+2,291,找,找,zhao3,zhǎo,"to look for, to seek, to find","to try to find
 to look for
 to call on sb
 to find
 to seek
 to return
 to give change",46647
-2,299,最,㝡,zui4,zuì,"most, the most, -est (superlative suffix),",variant of 最[zui4],46464
-2,256,为,為,wei2,wèi,"variant of 為|为, because of, for, to,","as (in the capacity of)
+2,299,最,最,zui4,zuì,"most, the most, -est (superlative suffix)",variant of 最[zui4],46464
+2,256,为,為,wei4,wèi,"because of, for, to,","as (in the capacity of)
 to take sth as
 to act as
 to serve as
@@ -622,7 +615,7 @@ to become
 to be
 to do
 by (in the passive voice)",45565
-2,208,可能,可能,ke3 neng2,kě néng,"might (happen), possible, probable, possibility, probability, maybe, perhaps, CL:個|个[gè],","might (happen)
+2,208,可能,可能,ke3 neng2,kě néng,"might (happen), maybe, possible, perhaps","might (happen)
 possible
 probable
 possibility
@@ -630,7 +623,7 @@ probability
 maybe
 perhaps
 CL:個|个[ge4]",44424
-2,163,次,次,ci4,cì,"next in sequence, second, the second (day, time etc), secondary, vice-, sub-, infra-, inferior quality, substandard, order, sequence, hypo- (chemistry), classifier for enumerated events: time,","next in sequence
+2,163,次,次,ci4,cì,"occurence, time","next in sequence
 second
 the second (day, time etc)
 secondary
@@ -643,7 +636,7 @@ order
 sequence
 hypo- (chemistry)
 classifier for enumerated events: time",43873
-2,160,出,出,chu1,chū,"to go out, to come out, to occur, to produce, to go beyond, to rise, to put forth, to happen, classifier for dramas, plays, operas etc,","to go out
+2,160,出,出,chu1,chū,"to go out, to come out, exit","to go out
 to come out
 to occur
 to produce
@@ -653,58 +646,58 @@ to put forth
 to happen
 (used after a verb to indicate an outward direction or a positive result)
 classifier for dramas, plays, operas etc",42784
-2,187,孩子,孩子,hai2 zi5,hái zi,"child,",child,37243
-2,247,所以,所以,suo3 yi3,suǒ yǐ,"therefore, as a result, so,","therefore
+2,187,孩子,孩子,hai2 zi5,hái zi,child,child,37243
+2,247,所以,所以,suo3 yi3,suǒ yǐ,"therefore, as a result, so","therefore
 as a result
 so
 the reason why",37014
-2,215,两,兩,liang3,liǎng,"both, two, ounce, some, a few, tael, weight equal to 50 grams,","two
+2,215,两,兩,liang3,liǎng,"two, both","two
 both
 some
 a few
 tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin1] (old)",36580
-2,165,错,錯,Cuo4,cuò,"mistake, wrong, bad, interlocking, complex, to grind, to polish, to alternate, to stagger, to miss, to let slip, to evade, to inlay with gold or silver,",surname Cuo,36166
-2,258,问题,問題,wen4 ti2,wèn tí,"question, problem, issue, topic, CL:個|个[gè],","question
+2,165,错,錯,cuo4,cuò,"mistake, error, fault",,36166
+2,258,问题,問題,wen4 ti2,wèn tí,"question, problem, issue","question
 problem
 issue
 topic
 CL:個|个[ge4]",33364
-2,276,一起,一起,yi1 qi3,yī qǐ,"in the same place, together, with, altogether (in total),","in the same place
+2,276,一起,一起,yi1 qi3,yī qǐ,together,"in the same place
 together
 with
 altogether (in total)",32889
-2,206,开始,開始,kai1 shi3,kāi shǐ,"to begin, beginning, to start, initial, CL:個|个[gè],","to begin
+2,206,开始,開始,kai1 shi3,kāi shǐ,"to begin, to start","to begin
 beginning
 to start
 initial
 CL:個|个[ge4]",32126
-2,242,时间,時間,shi2 jian1,shí jiān,"time, period, CL:段[duàn],","time
+2,242,时间,時間,shi2 jian1,shí jiān,"time, period","time
 period
 CL:段[duan4]",30703
-2,243,事情,事情,shi4 qing5,shì qing,"affair, matter, thing, business, CL:件,樁|桩[zhuāng],","affair
+2,243,事情,事情,shi4 qing5,shì qing,"affair, matter, thing","affair
 matter
 thing
 business
 CL:件[jian4],樁|桩[zhuang1]",28176
-2,176,非常,非常,fei1 chang2,fēi cháng,"unusual, extraordinary, extreme, very, exceptional,","very; really
+2,176,非常,非常,fei1 chang2,fēi cháng,"extremely, very, extraordinary","very; really
 unusual; extraordinary",26976
-2,260,希望,希望,xi1 wang4,xī wàng,"to wish for, to desire, hope CL:個|个[gè],","to wish for
+2,260,希望,希望,xi1 wang4,xī wàng,"hope, desire, wish for","to wish for
 to desire
 hope
 CL:個|个[ge4]",26658
-2,296,准备,準備,zhun3 bei4,zhǔn bèi,"preparation, to prepare, to intend, to be about to, reserve (fund),","preparation
+2,296,准备,準備,zhun3 bei4,zhǔn bèi,"preparation, to prepare","preparation
 to prepare
 to intend
 to be about to
 reserve (fund)",22202
-2,156,比,比,Bi3,bǐ,"(particle used for comparison and ""-er than""), to compare, to contrast, to gesture (with hands), ratio,","Belgium
+2,156,比,比,bi3,bǐ,(comparison particle),"Belgium
 Belgian
 abbr. for 比利時|比利时[Bi3 li4 shi2]",21371
-2,257,问,問,wen4,wèn,"to ask,",to ask; to inquire,20455
-2,197,件,件,jian4,jiàn,"item, component, classifier for events, things, clothes etc,","item
+2,257,问,問,wen4,wèn,to ask,to ask; to inquire,20455
+2,197,件,件,jian4,jiàn,"classifier for events, things, clothes","item
 component
 classifier for events, things, clothes etc",19568
-2,277,意思,意思,yi4 si5,yì si,"idea, opinion, meaning, wish, desire, CL:個|个[gè],","idea
+2,277,意思,意思,yi4 si5,yì si,"meaning, idea, opinion","idea
 opinion
 meaning
 wish
@@ -715,10 +708,10 @@ token of appreciation, affection etc
 CL:個|个[ge4]
 to give as a small token
 to do sth as a gesture of goodwill etc",19239
-2,173,第一,第一,di4 yi1,dì yī,"first, number one,","first
+2,173,第一,第一,di4 yi1,dì yī,"first, number one","first
 number one
 primary",18192
-2,201,进,進,jin4,jìn,"to advance, to enter, to come (or go) into, to receive or admit, to eat or drink, to submit or present, (used after a verb) into, in, to score a goal,","to go forward
+2,201,进,進,jin4,jìn,"to enter, to go in","to go forward
 to advance
 to go in
 to enter
@@ -728,15 +721,14 @@ to take in
 to admit
 (math.) base of a number system
 classifier for sections in a building or residential compound",17634
-2,167,大家,大家,da4 jia1,dà jiā,"everyone, influential family, great expert,","everyone
+2,167,大家,大家,da4 jia1,dà jiā,everyone,"everyone
 influential family
 great expert",17458
-2,265,新,新,Xin1,xīn,"new, newly, meso- (chemistry),","abbr. for Xinjiang 新疆[Xin1 jiang1] or Singapore 新加坡[Xin1 jia1 po1]
-surname Xin",17291
-2,225,您,您,nin2,nín,"you (courteous, as opposed to informal 你),","you (courteous, as opposed to informal 你[ni3])",17279
-2,262,向,向,Xiang4,xiàng,"towards, to face, to turn towards, direction, to support, to side with, shortly before, formerly, always, all along,",surname Xiang,17219
-2,227,女人,女人,nu:3 ren2,nǚ rén,"woman,",woman,14388
-2,161,穿,穿,chuan1,chuān,"to bore through, to pierce, to perforate, to penetrate, to pass through, to dress, to wear, to put on, to thread,","to wear
+2,265,新,新,xin1,xīn,new,,17291
+2,225,您,您,nin2,nín,you (courteous/formal),"you (courteous, as opposed to informal 你[ni3])",17279
+2,262,向,向,xiang4,xiàng,"towards, to turn towards, direction",,17219
+2,227,女人,女人,nv3 ren2,nǚ rén,woman,woman,14388
+2,161,穿,穿,chuan1,chuān,"to wear, to put on (clothes)","to wear
 to put on
 to dress
 to bore through
@@ -745,33 +737,26 @@ to perforate
 to penetrate
 to pass through
 to thread",13586
-2,246,送,送,song4,sòng,"to deliver, to carry, to give (as a present), to present (with), to see off, to send,","to send; to deliver; to transmit
+2,246,送,送,song4,sòng,"to deliver, to send, to give (as a present), to present (with)","to send; to deliver; to transmit
 to give (as a present)
 to see (sb) off
 to accompany; to go along with",13212
-2,254,玩,玩,wan2,wán,"toy, sth used for amusement, curio or antique (Taiwan pr. ), to play, to have fun, to trifle with, to keep sth for entertainment,","to play
+2,254,玩,玩,wan2,wán,"to play, to have fun","to play
 to have fun
 to trifle with
 toy
 sth used for amusement
 curio or antique (Taiwan pr. [wan4])
 to keep sth for entertainment",13033
-2,158,长,長,chang2,cháng,"length, long, forever, always, constantly,","length
+2,158,长,長,chang2,cháng,"length, long","length
 long
 forever
 always
 constantly",12173
-2,289,长,長,chang2,zhǎng,"chief, head, elder, to grow, to develop, to increase, to enhance,","length
-long
-forever
-always
-constantly",12173
-2,189,号,號,hao2,hào,"ordinal number, day of a month, mark, sign, business establishment, size, ship suffix, horn (wind instrument), bugle call, assumed name, to take a pulse, classifier used to indicate number of people,","roar
-cry
-CL:個|个[ge4]",11862
-2,263,小时,小時,xiao3 shi2,xiǎo shí,"hour, CL:個|个[gè],","hour
+2,189,号,號,hao4,hào,"ordinal number, day of the month",,11862
+2,263,小时,小時,xiao3 shi2,xiǎo shí,hour,"hour
 CL:個|个[ge4]",11709
-2,224,男人,男人,nan2 ren2,nán rén,"a man, a male, men, CL:個|个[gè],","a man
+2,224,男人,男人,nan2 ren2,nán rén,"a man, a male, men","a man
 a male
 men
 CL:個|个[ge4]",11608
@@ -780,117 +765,115 @@ to be over
 whole
 complete
 entire",11162
-2,288,张,張,Zhang1,zhāng,"to open up, to spread, sheet of paper, classifier for flat objects, sheet, classifier for votes,",surname Zhang,11146
-2,221,每,每,mei3,měi,"each, every,","each
+2,288,张,張,zhang1,zhāng,"classifier for flat objects, e.g. sheets, photos",surname Zhang,11146
+2,245,手机,手機,shou3 ji1,shǒu jī,"cell phone, mobile phone","cell phone
+mobile phone
+CL:部[bu4],支[zhi1]",3634
+2,222,妹妹,妹妹,mei4 mei5,mèi mei,younger sister,"younger sister
+young woman
+CL:個|个[ge4]",3262
+2,221,每,每,mei3,měi,"each, every","each
 every",10154
-2,184,公司,公司,gong1 si1,gōng sī,"(business) company, company, firm, corporation, incorporated, CL:家[jiā],","company; firm; corporation
+2,184,公司,公司,gong1 si1,gōng sī,"(business) company, firm","company; firm; corporation
 CL:家[jia1]",10046
-2,154,帮助,幫助,bang1 zhu4,bāng zhù,"assistance, aid, to help, to assist,","assistance
+2,154,帮助,幫助,bang1 zhu4,bāng zhù,"to help, to assist","assistance
 aid
 to help
 to assist",10033
-2,255,晚上,晚上,wan3 shang5,wǎn shang,"evening, night, CL:個|个[gè], in the evening,","evening
+2,255,晚上,晚上,wan3 shang5,wǎn shang,"evening, night","evening
 night
 CL:個|个[ge4]
 in the evening",9574
-2,223,门,門,Men2,mén,"gate, door, CL:扇[shàn], gateway, doorway, CL:個|个[gè], opening, valve, switch, way to do something, knack, family, house, (religious) sect, school (of thought), class, category, phylum or division (taxonomy), classifier for large guns, classifier for lessons, subjects, branches of technology,",surname Men,8879
-2,192,欢迎,歡迎,huan1 ying2,huān yíng,"to welcome, welcome,","to welcome
+2,223,门,門,men2,mén,"door, gate
+(plural marker)",,8879
+2,192,欢迎,歡迎,huan1 ying2,huān yíng,welcome,"to welcome
 welcome",8674
-2,220,忙,忙,mang2,máng,"busy, hurriedly, to hurry, to rush,","busy
+2,232,妻子,妻子,qi1 zi3,qī zi,wife,wife and children,6494
+2,220,忙,忙,mang2,máng,busy,"busy
 hurriedly
 to hurry
 to rush",8342
-2,218,卖,賣,mai4,mài,"to sell, to betray, to spare no effort, to show off or flaunt,","to sell
+2,218,卖,賣,mai4,mài,to sell,"to sell
 to betray
 to spare no effort
 to show off or flaunt",7475
-2,178,高,高,Gao1,gāo,"high, tall, above average, loud, your (honorific),",surname Gao,7415
-2,175,房间,房間,fang2 jian1,fáng jiān,"room, CL:間|间[jiān],","room
-CL:間|间[jian1],個|个[ge4]",7208
-2,216,路,路,Lu4,lù,"road, CL:條|条[tiáo], journey, route, line (bus etc), sort, kind,",surname Lu,6993
-2,174,懂,懂,dong3,dǒng,"to understand, to know,","to understand
+2,178,高,高,gao1,gāo,"tall, high",,7415
+2,175,房间,房間,fang2 jian1,fáng jiān,room (e.g. of a house),,7208
+2,216,路,路,lu4,lù,"road, route",,6993
+2,174,懂,懂,dong3,dǒng,"to understand
+to comprehend","to understand
 to comprehend",6923
 2,294,正在,正在,zheng4 zai4,zhèng zài,"in the process of (doing something or happening), while (doing),","just at (that time)
 right in (that place)
 right in the middle of (doing sth)",6653
-2,264,笑,咲,xiao4,xiào,"laugh, smile, CL:個|个[gè],",old variant of 笑[xiao4],6628
+2,264,笑,笑,xiao4,xiào,"laugh, smile",,6628
 2,284,远,遠,yuan3,yuǎn,"far, distant, remote,","far
 distant
 remote
 (intensifier in a comparison) by far
 much (lower etc)",6570
-2,232,妻子,妻子,qi1 zi3,qī zi,"wife, CL:個|个[gè],",wife and children,6494
 2,290,丈夫,丈夫,zhang4 fu5,zhàng fu,"husband, CL:個|个[gè],","husband
 CL:個|个[ge4]",6115
-2,214,离,离,chi1,lí,"to leave, to part from, to be away from, (in giving distances) from, without (sth), independent of, one of the Eight Trigrams 八卦, symbolizing fire, ☲,",mythical beast (archaic),6088
-2,270,眼睛,眼睛,yan3 jing5,yǎn jing,"eye, CL:隻|只,雙|双[shuāng],","eye
+2,214,离,離,li2,lí,"(in giving distances) from
+to leave, to be away from",,6088
+2,270,眼睛,眼睛,yan3 jing5,yǎn jing,eye,"eye
 CL:隻|只[zhi1],雙|双[shuang1]",5673
-2,212,快乐,快樂,kuai4 le4,kuài lè,"happy, merry,",happy; joyful,5505
-2,287,早上,早上,zao3 shang5,zǎo shang,"early morning, CL:個|个[gè],","early morning
+2,212,快乐,快樂,kuai4 le4,kuài lè,"happy, merry",happy; joyful,5505
+2,287,早上,早上,zao3 shang5,zǎo shang,early morning,"early morning
 CL:個|个[ge4]",4953
-2,272,药,葯,yao4,yào,"medicine, drug, cure, CL:種|种,服[fù],","leaf of the iris
-variant of 藥|药[yao4]",4788
-2,239,身体,身體,shen1 ti3,shēn tǐ,"(human) body, health, CL:個|个[gè],","the body
+2,272,药,藥,yao4,yào,"medicine, drug, cure",,4788
+2,239,身体,身體,shen1 ti3,shēn tǐ,"(human) body, health","the body
 one's health
 CL:具[ju4],個|个[ge4]
 in person",4764
-2,190,黑,黑,Hei1,hēi,"black, dark, (loanword) to hack,",abbr. for Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1],4563
-2,162,船,舩,chuan2,chuán,"a boat, vessel, ship, CL:條|条,艘,隻|只[zhī],",variant of 船[chuan2],4243
-2,205,咖啡,咖啡,ka1 fei1,kā fēi,"coffee, CL:杯[bēi],","coffee (loanword)
+2,190,黑,黑,hei1,hēi,black,,4563
+2,162,船,船,chuan2,chuán,"boat, vessel, ship",variant of 船[chuan2],4243
+2,205,咖啡,咖啡,ka1 fei1,kā fēi,coffee,"coffee (loanword)
 CL:杯[bei1]",4195
 2,267,休息,休息,xiu1 xi5,xiū xi,"rest, to rest,","rest
 to rest",4075
-2,194,回答,回答,hui2 da2,huí dá,"to reply, to answer, the answer, CL:個|个[gè],","to reply; to answer
+2,194,回答,回答,hui2 da2,huí dá,"reply, answer","to reply; to answer
 reply; answer",4070
-2,252,外,外,wai4,wài,"outside, in addition, foreign, external,","outside
+2,252,外,外,wai4,wài,"outside, foreign, external,","outside
 in addition
 foreign
 external",4058
-2,241,生日,生日,sheng1 ri4,shēng rì,"birthday, CL:個|个[gè],","birthday
+2,241,生日,生日,sheng1 ri4,shēng rì,birthday,"birthday
 CL:個|个[ge4]",3800
-2,180,哥哥,哥哥,ge1 ge5,gē ge,"older brother, CL:個|个,位[wèi],","older brother
+2,180,哥哥,哥哥,ge1 ge5,gē ge,older brother,"older brother
 CL:個|个[ge4],位[wei4]",3700
-2,231,票,票,piao4,piào,"ticket, ballot, bank note, CL:張|张[zhāng], person held for ransom, amateur performance of Chinese opera, classifier for shipments and business transactions (topolect),","ticket
+2,231,票,票,piao4,piào,"ticket, ballot, bank note","ticket
 ballot
 banknote
 CL:張|张[zhang1]
 person held for ransom
 amateur performance of Chinese opera
 classifier for groups, batches, business transactions",3664
-2,245,手机,手機,shou3 ji1,shǒu jī,"cell phone, mobile phone, CL:部,支[zhī],","cell phone
-mobile phone
-CL:部[bu4],支[zhi1]",3634
-2,261,洗,洗,xi3,xǐ,"to wash, to bathe, to develop (photo),","to wash; to bathe
+2,261,洗,洗,xi3,xǐ,"to wash, to bathe","to wash; to bathe
 to develop (photographs)
 to shuffle (cards etc)
 to erase (a recording)",3495
-2,251,跳舞,跳舞,tiao4 wu3,tiào wǔ,"to dance,",to dance,3459
-2,172,弟弟,弟弟,di4 di5,dì di,"younger brother, CL:個|个,位[wèi],","younger brother
+2,251,跳舞,跳舞,tiao4 wu3,tiào wǔ,to dance,to dance,3459
+2,172,弟弟,弟弟,di4 di5,dì di,younger brother,"younger brother
 CL:個|个[ge4],位[wei4]",3376
-2,222,妹妹,妹妹,mei4 mei5,mèi mei,"younger sister, fig. younger woman (esp. girl friend or rival), CL:個|个[gè],","younger sister
-young woman
-CL:個|个[ge4]",3262
-2,191,红,紅,Hong2,hóng,"red, popular, revolutionary, bonus,",surname Hong,2932
-2,219,慢,慢,man4,màn,"slow,",slow,2887
-2,202,近,近,jin4,jìn,"near, close to, approximately,","near
+2,191,红,紅,hong2,hóng,red,,2932
+2,219,慢,慢,man4,màn,slow,slow,2887
+2,202,近,近,jin4,jìn,"near, close to","near
 close to
 approximately",2717
-2,152,白,白,Bai2,bái,"white, snowy, pure, bright, empty, blank, plain, clear, to make clear, in vain, gratuitous, free of charge, reactionary, anti-communist, funeral, to stare coldly, to write wrong character, to state, to explain, vernacular, spoken lines in opera,",surname Bai,2684
-2,199,姐姐,姐姐,jie3 jie5,jiě jie,"older sister, CL:個|个[gè],","older sister
+2,152,白,白,Bai2,bái,white,surname Bai,2684
+2,199,姐姐,姐姐,jie3 jie5,jiě jie,older sister,"older sister
 CL:個|个[ge4]",2655
-2,200,介绍,介紹,jie4 shao4,jiè shào,"to introduce (sb to sb), to give a presentation, to present (sb for a job etc), introduction,","to introduce (sb to sb)
+2,200,介绍,介紹,jie4 shao4,jiè shào,to introduce (e.g. two people),"to introduce (sb to sb)
 to give a presentation
 to present (sb for a job etc)
 introduction",2583
-2,282,鱼,魚,Yu2,yú,"fish, CL:條|条,尾[wěi],",surname Yu,2532
-2,213,累,累,lei3,lèi,"tired, weary, to strain, to wear out, to work hard,","to accumulate
-to involve or implicate (Taiwan pr. [lei4])
-continuous
-repeated",2375
+2,282,鱼,魚,yu2,yú,fish,,2532
+2,213,累,累,lei2,lèi,tired,,2375
 2,249,踢,踢,ti1,tī,"to kick, to play (e.g. soccer),","to kick
 to play (e.g. soccer)
 (slang) butch (in a lesbian relationship)",2266
-2,210,课,課,ke4,kè,"subject, course, CL: 門|门[mén], class, lesson, CL:堂,節|节[jié], to levy, tax, form of divination,","subject
+2,210,课,課,ke4,kè,"class, lesson, subject, course","subject
 course
 CL:門|门[men2]
 class
@@ -899,14 +882,13 @@ CL:堂[tang2],節|节[jie2]
 to levy
 tax
 form of divination",2226
-2,238,上班,上班,shang4 ban1,shàng bān,"to go to work, to be on duty, to start work, to go to the office,","to go to work
+2,238,上班,上班,shang4 ban1,shàng bān,"to go to work, to start work","to go to work
 to be on duty
 to start work
 to go to the office",2221
-2,228,旁边,旁邊,pang2 bian1,páng biān,"lateral, side, to the side, beside,",side; adjacent place,2098
-2,283,元,元,Yuan2,yuán,"Chinese monetary unit, dollar, primary, first,","surname Yuan
-the Yuan or Mongol dynasty (1279-1368)",1945
-2,285,运动,運動,yun4 dong4,yùn dòng,"to move, to exercise, sports, exercise, motion, movement, campaign, CL:場|场[chǎng],","to move
+2,228,旁边,旁邊,pang2 bian1,páng biān,beside,side; adjacent place,2098
+2,283,元,元,yuan2,yuán,"Chinese monetary unit, yuan",,1945
+2,285,运动,運動,yun4 dong4,yùn dòng,"to do exercise, do sports, movement","to move
 to exercise
 sports
 exercise
@@ -914,110 +896,110 @@ motion
 movement
 campaign
 CL:場|场[chang3]",1923
-2,236,去年,去年,qu4 nian2,qù nián,"last year,",last year,1897
-2,155,报纸,報紙,bao4 zhi3,bào zhǐ,"newspaper, newsprint, CL:份,期,張|张[zhāng],","newspaper
+2,236,去年,去年,qu4 nian2,qù nián,last year,last year,1897
+2,155,报纸,報紙,bao4 zhi3,bào zhǐ,newspaper,"newspaper
 newsprint
 CL:份[fen4],期[qi1],張|张[zhang1]",1710
-2,269,颜色,顏色,yan2 se4,yán sè,"color, CL:個|个[gè],","color
+2,269,颜色,顏色,yan2 se4,yán sè,"colour, color","color
 countenance
 appearance
 facial expression
 pigment
 dyestuff",1703
-2,195,机场,機場,ji1 chang3,jī chǎng,"airport, airfield, CL:家,處|处[chù],","airport; airfield
+2,195,机场,機場,ji1 chang3,jī chǎng,airport,"airport; airfield
 (slang) service provider for Shadowsocks or similar software for circumventing Internet censorship
 CL:家[jia1],處|处[chu4]",1634
-2,159,唱歌,唱歌,chang4 ge1,chàng gē,"to sing a song,",to sing a song,1591
-2,234,千,千,qian1,qiān,"a swing,",thousand,1546
-2,188,好吃,好吃,hao3 chi1,hǎo chī,"tasty, delicious,","tasty
+2,159,唱歌,唱歌,chang4 ge1,chàng gē,to sing a song,to sing a song,1591
+2,234,千,千,qian1,qiān,thousand,thousand,1546
+2,188,好吃,好吃,hao3 chi1,hǎo chī,"tasty, delicious","tasty
 delicious",1210
-2,207,考试,考試,kao3 shi4,kǎo shì,"to take an exam, exam, CL:次[cì],","to take an exam
+2,207,考试,考試,kao3 shi4,kǎo shì,"to take an exam, exam","to take an exam
 exam
 CL:次[ci4]",1041
-2,300,左边,左邊,zuo3 bian5,zuǒ bian,"left, the left side, to the left of,","left
+2,300,左边,左邊,zuo3 bian5,zuǒ bian,"to the left of, the left side","left
 the left side
 to the left of",1024
-2,266,姓,姓,xing4,xìng,"family name, surname, name, CL:個|个[gè],","family name
+2,266,姓,姓,xing4,xìng,"family name, surname","family name
 surname
 CL:個|个[ge4]
 to be surnamed",999
-2,153,百,百,Bai3,bǎi,"hundred, numerous, all kinds of,",surname Bai,981
-2,268,雪,雪,Xue3,xuě,"snow, snowfall, CL:場|场[cháng], to have the appearance of snow, to wipe away, off or out, to clean,",surname Xue,968
-2,185,贵,貴,gui4,guì,"expensive, noble, your (name), precious,","expensive
+2,153,百,百,bai3,bǎi,hundred,,981
+2,268,雪,雪,xue3,xuě,snow,surname Xue,968
+2,185,贵,貴,gui4,guì,expensive,"expensive
 noble
 precious
 (honorific) your",959
-2,240,生病,生病,sheng1 bing4,shēng bìng,"to fall ill,",to fall ill,928
-2,280,游泳,游泳,you2 yong3,yóu yǒng,"swimming, to swim,","swimming
+2,240,生病,生病,sheng1 bing4,shēng bìng,"to fall ill, sick",to fall ill,928
+2,280,游泳,游泳,you2 yong3,yóu yǒng,"swimming, to swim","swimming
 to swim",892
-2,226,牛奶,牛奶,niu2 nai3,niú nǎi,"cow's milk, CL:瓶,杯[bēi],","cow's milk
+2,226,牛奶,牛奶,niu2 nai3,niú nǎi,(cow) milk,"cow's milk
 CL:瓶[ping2],杯[bei1]",888
-2,281,右边,右邊,you4 bian5,yòu bian,"right side, right, to the right,","right side
+2,281,右边,右邊,you4 bian5,yòu bian,"to the right, right side","right side
 right, to the right",868
-2,230,便宜,便宜,bian4 yi2,pián yi,"small advantages, to let sb off lightly, cheap, inexpensive,",convenient,860
+2,230,便宜,便宜,pian2 yi5,pián yi,"cheap, inexpensive",convenient,860
 2,233,起床,起床,qi3 chuang2,qǐ chuáng,"to get out of bed, to get up,","to get out of bed
 to get up",798
-2,196,鸡蛋,雞蛋,ji1 dan4,jī dàn,"(chicken) egg, hen's egg, CL:個|个,打[dá],","(chicken) egg
+2,196,鸡蛋,雞蛋,ji1 dan4,jī dàn,(chicken) egg,"(chicken) egg
 hen's egg
 CL:個|个[ge4],打[da2]",719
-2,297,自行车,自行車,zi4 xing2 che1,zì xíng chē,"bicycle, bike, CL:輛|辆[liàng],","bicycle; bike
+2,297,自行车,自行車,zi4 xing2 che1,zì xíng chē,bicycle,"bicycle; bike
 CL:輛|辆[liang4]",704
-2,250,题,題,Ti2,tí,"topic, problem for discussion, exam question, subject, to inscribe, to mention, CL:個|个,道[dào],",surname Ti,584
-2,244,手表,手錶,shou3 biao3,shǒu biǎo,"wrist watch, CL:塊|块,隻|只,個|个[gè],","wristwatch
+2,250,题,題,ti2,tí,"topic, subject, problem for discussion",surname Ti,584
+2,244,手表,手錶,shou3 biao3,shǒu biǎo,wrist watch,"wristwatch
 CL:塊|块[kuai4],隻|只[zhi1],個|个[ge4]",511
-2,217,旅游,旅遊,lu:3 you2,lǚ yóu,"trip, journey, tourism, travel, tour,","trip
+2,217,旅游,旅遊,lv3 you2,lǚ yóu,"trip, journey, tourism, travel, tour,","trip
 journey
 tourism
 travel
 tour
 to travel",469
-2,177,服务员,服務員,fu2 wu4 yuan2,fú wù yuán,"waiter, waitress, attendant, customer service personnel, CL:個|个[gè],","waiter
+2,177,服务员,服務員,fu2 wu4 yuan2,fú wù yuán,"waiter, waitress, attendant","waiter
 waitress
 attendant
 customer service personnel
 CL:個|个[ge4],位[wei4]",431
-2,198,教室,教室,jiao4 shi4,jiào shì,"classroom, CL:間|间[jiān],","classroom
+2,198,教室,教室,jiao4 shi4,jiào shì,classroom,"classroom
 CL:間|间[jian1]",377
-2,229,跑步,跑步,pao3 bu4,pǎo bù,"to walk quickly, to march, to run,","to run
+2,229,跑步,跑步,pao3 bu4,pǎo bù,"to run, jog","to run
 to jog
 (military) to march at the double",344
-2,278,阴,陰,Yin1,yīn,"overcast (weather), cloudy, shady, Yin (the negative principle of Yin and Yang), negative (electric.), feminine, moon, implicit, hidden, genitalia,",surname Yin,342
-2,183,公斤,公斤,gong1 jin1,gōng jīn,"kilogram (kg),",kilogram (kg),217
-2,259,西瓜,西瓜,xi1 gua1,xī guā,"watermelon, CL:條|条[tiáo],","watermelon
+2,278,阴,陰,yin1,yīn,"shade, overcast, dark (opposite of yang)",surname Yin,342
+2,183,公斤,公斤,gong1 jin1,gōng jīn,kilogram (kg),kilogram (kg),217
+2,259,西瓜,西瓜,xi1 gua1,xī guā,watermelon,"watermelon
 CL:顆|颗[ke1],個|个[ge5]",101
-2,271,羊肉,羊肉,yang2 rou4,yáng ròu,"mutton,","mutton
+2,271,羊肉,羊肉,yang2 rou4,yáng ròu,"mutton
+sheep or goat meat","mutton
 goat meat",70
 2,235,晴,晴,qing2,qíng,"clear, fine (weather),","clear
 fine (weather)",65
-2,182,公共汽车,公共汽車,gong1 gong4 qi4 che1,gōng gòng qì chē,"bus, CL:輛|辆,班[bān],","bus
+2,182,公共汽车,公共汽車,gong1 gong4 qi4 che1,gōng gòng qì chē,bus,"bus
 CL:輛|辆[liang4],班[ban1]",0
-2,166,打篮球,,,dá lán qiú,"Play basketball,",,
-3,302,啊,啊,a1,a,"modal particle ending sentence, showing affirmation, approval, or consent,","interjection of surprise
+2,166,打篮球,打籃球,da3 lan2 qiu2,dá lán qiú,play basketball,,
+3,302,啊,啊,a1,a,"interjection of surprise
+Ah!
+Oh!","interjection of surprise
 Ah!
 Oh!",130963
-3,306,把,把,ba3,bǎ,"to hold, to contain, to grasp, to take hold of, handle, particle marking the following noun as a direct object, classifier for objects with handle, classifier for small objects: handful,","to hold; to grasp
+3,306,把,把,ba3,bǎ,"to hold, to grasp","to hold; to grasp
 to hold a baby in position to help it urinate or defecate
 handlebar
 classifier: handful, bundle, bunch
 classifier for things with handles
 (used to put the object before the verb: 把[ba3] + {noun} + {verb})",124534
-3,493,如果,如果,ru2 guo3,rú guǒ,"if, in case, in the event that,","if
+3,493,如果,如果,ru2 guo3,rú guǒ,if,"if
 in case
 in the event that",76417
-3,584,只,只,zhi3,zhī,"classifier for birds and certain animals, one of a pair, some utensils, vessels etc,","only
+3,585,只,只,zhi3,zhǐ,"only, merely","only
 merely
 just
 but",72698
-3,585,只,只,zhi3,zhǐ,"but, only,","only
-merely
-just
-but",72698
-3,316,被,被,bei4,bèi,"quilt, by, (indicates passive-voice clauses), (literary) to cover, to meet with,","quilt
+3,316,被,被,bei4,bèi,"by
+(indicates passive-voice clauses)","quilt
 to cover (with)
 (literary) to suffer (a misfortune)
 used to indicate passive voice (placed before the doer of the action like 'by' in English passive-voice sentences, or, if the doer is not mentioned, before the verb)
-(since c. 2009) (sarcastic or jocular) used to indicate that the following word should be regarded as being in air quotes (as in 被旅遊|被旅游[bei4 lu:3 you2] to 'go on a trip', for example)",65695
-3,381,跟,跟,gen1,gēn,"heel, to follow closely, to go with, to marry sb (of woman), with, towards, as (compared to), from (different from), and (in addition to),","heel
+(since c. 2009) (sarcastic or jocular) used to indicate that the following word should be regarded as being in air quotes (as in 被旅遊|被旅游[bei4 lv3 you2] to 'go on a trip', for example)",65695
+3,381,跟,跟,gen1,gēn,with,"heel
 to follow closely
 to go with
 (of a woman) to marry sb
@@ -1026,9 +1008,9 @@ compared with
 to
 towards
 and (joining two nouns)",62979
-3,595,自己,自己,zi4 ji3,zì jǐ,"oneself, one's own,","oneself
+3,595,自己,自己,zi4 ji3,zì jǐ,oneself,"oneself
 one's own",57978
-3,570,用,用,yong4,yòng,"to use, to employ, to have to, to eat or drink, expense or outlay, usefulness, hence, therefore,","to use
+3,570,用,用,yong4,yòng,to use,"to use
 to employ
 to have to
 to eat or drink
@@ -1036,9 +1018,10 @@ expense or outlay
 usefulness
 hence
 therefore",52436
-3,529,为什么,為什麼,wei4 shen2 me5,wèi shén me,"why?, for what reason?,","why?
+3,529,为什么,為什麼,wei4 shen2 me5,wèi shén me,"why?
+for what reason?","why?
 for what reason?",51063
-3,541,像,像,xiang4,xiàng,"to resemble, to be like, to look as if, such as, appearance, image, portrait, image under a mapping (math.),","to resemble
+3,541,像,像,xiang4,xiàng,"to resemble, to be like","to resemble
 to be like
 to look as if
 such as
@@ -1046,29 +1029,31 @@ appearance
 image
 portrait
 image under a mapping (math.)",50229
-3,551,需要,需要,xu1 yao4,xū yào,"to need, to want, to demand, to require, requirement, need,","to need; to want; to demand; to require
+3,551,需要,需要,xu1 yao4,xū yào,"to need, to require","to need; to want; to demand; to require
 needs",44362
-3,568,应该,應該,ying1 gai1,yīng gāi,"ought to, should, must,","ought to
+3,568,应该,應該,ying1 gai1,yīng gāi,"should, ought to","ought to
 should
 must",37811
-3,327,才,才,cai2,cái,"a moment ago, just now, (preceded by a clause of condition or reason) not until, (followed by a numerical clause) only,","ability
+3,327,才,才,cai2,cái,"only, just, then and only then
+ability, talent","ability
 talent
 sb of a certain type
 a capable individual
 then and only then
 just now
 (before an expression of quantity) only",36716
-3,573,又,又,you4,yòu,"(once) again, also, both... and..., and yet, (used for emphasis) anyway,","(once) again
+3,573,又,又,you4,yòu,"(once) again, also, both... and...","(once) again
 also
 both... and...
 and yet
 (used for emphasis) anyway",35561
-3,465,拿,㧱,na2,ná,"to hold, to seize, to catch, to apprehend, to take,",old variant of 拿[na2],32361
-3,382,更,更,geng1,gèng,"more, even more, further, still, still more,","to change or replace
+3,465,拿,拿,na2,ná,"to hold, to seize",,32361
+3,382,更,更,geng4,gèng,"more, even more","to change or replace
 to experience
 one of the five two-hour periods into which the night was formerly divided
 watch (e.g. of a sentry or guard)",32253
-3,346,带,帶,dai4,dài,"band, belt, girdle, ribbon, tire, area, zone, region, CL:條|条[tiáo], to wear, to carry, to take along, to bear (i.e. to have), to lead, to bring, to look after, to raise,","band
+3,346,带,帶,dai4,dài,"to bring, carry
+belt, band","band
 belt
 girdle
 ribbon
@@ -1085,31 +1070,30 @@ to lead
 to bring
 to look after
 to raise",31069
-3,488,然后,然後,ran2 hou4,rán hòu,"after, then (afterwards), after that, afterwards,",then; after that; afterwards,29752
-3,559,一样,一樣,yi1 yang4,yī yàng,"same, like, equal to, the same as, just like,","same
+3,488,然后,然後,ran2 hou4,rán hòu,"then (afterwards), after that",then; after that; afterwards,29752
+3,559,一样,一樣,yi1 yang4,yī yàng,"same, like, equal to","same
 like
 equal to
 the same as
 just like",28861
-3,349,当然,當然,dang1 ran2,dāng rán,"only natural, as it should be, certainly, of course, without doubt,","only natural
+3,349,当然,當然,dang1 ran2,dāng rán,"of course, certainly","only natural
 as it should be
 certainly
 of course
 without doubt",26313
-3,540,相信,相信,xiang1 xin4,xiāng xìn,"to be convinced (that sth is true), to believe, to accept sth as true,",to be convinced (that sth is true); to believe; to accept sth as true,25699
-3,490,认为,認為,ren4 wei2,rèn wéi,"to believe, to think, to consider, to feel,",to believe; to think; to consider; to feel,25294
-3,464,明白,明白,ming2 bai5,míng bai,"clear, obvious, unequivocal, to understand, to realize,","clear
+3,540,相信,相信,xiang1 xin4,xiāng xìn,"to believe, to be convinced (that sth is true)",to be convinced (that sth is true); to believe; to accept sth as true,25699
+3,464,明白,明白,ming2 bai5,míng bai,to understand (clearly),"clear
 obvious
 unequivocal
 to understand
 to realize",24744
 3,565,一直,一直,yi1 zhi2,yī zhí,"straight (in a straight line), continuously, always, from the beginning of ... up to ..., all along,","straight (in a straight line)
 continuously; always; all the way through",24551
-3,353,地方,地方,di4 fang1,dì fang,"area, place, space, room, territory, CL:處|处,個|个,塊|块[kuài],","region
+3,353,地方,地方,di4 fang1,dì fang,"place, area, local","region
 regional (away from the central administration)
 local",23358
 3,447,离开,離開,li2 kai1,lí kāi,"to depart, to leave,",to depart; to leave,20359
-3,556,一定,一定,yi1 ding4,yī dìng,"surely, certainly, necessarily, fixed, a certain (extent etc), given, particular, must,","surely
+3,556,一定,一定,yi1 ding4,yī dìng,"surely, certainly, definitely","surely
 certainly
 necessarily
 fixed
@@ -1117,22 +1101,24 @@ a certain (extent etc)
 given
 particular
 must",20273
-3,393,还是,還是,hai2 shi5,hái shi,"or, still, nevertheless, had better,","still (as before)
+3,393,还是,還是,hai2 shi5,hái shi,"or (question)
+still (as before)","still (as before)
 had better
 unexpectedly
 or",19998
-3,369,发现,發現,fa1 xian4,fā xiàn,"to find, to discover,","to notice; to become aware of
+3,369,发现,發現,fa1 xian4,fā xiàn,"to discover, notice, realize, become aware of","to notice; to become aware of
 to discover; to find; to detect
 a discovery",19774
-3,366,而且,而且,er2 qie3,ér qiě,"(not only ...) but also, moreover, in addition, furthermore,","(not only ...) but also
+3,366,而且,而且,er2 qie3,ér qiě,"(not only ...) but also, moreover, in addition","(not only ...) but also
 moreover
 in addition
 furthermore",19404
-3,320,必须,必須,bi4 xu1,bì xū,"to have to, must, compulsory, necessarily,","to have to
+3,490,认为,認為,ren4 wei2,rèn wéi,"to think (that), to consider, to feel, (that a fact is true)",to believe; to think; to consider; to feel,25294
+3,320,必须,必須,bi4 xu1,bì xū,"compulsory, necessarily, must, to have to","to have to
 must
 compulsory
 necessarily",19320
-3,371,放,放,fang4,fàng,"to release, to free, to let go, to put, to place, to let out, to set off (fireworks),","to put
+3,371,放,放,fang4,fàng,"to put, to place, to let go, to release","to put
 to place
 to release
 to free
@@ -1140,10 +1126,11 @@ to let go
 to let out
 to set off (fireworks)",19099
 3,528,为了,為了,wei4 le5,wèi le,"in order to, for the purpose of, so as to,",for; for the purpose of; in order to,18274
-3,350,地,地,de5,de,"-ly, structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct,","-ly
+3,350,地,地,de5,de,"-ly (structural particle)
+used before a verb or adjective, linking it to preceding modifying adverbial adjunct,","-ly
 structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct",18009
-3,562,以为,以為,yi3 wei2,yǐ wéi,"to believe, to think, to consider, to be under the impression,",to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.),16582
-3,446,老,老,lao3,lǎo,"prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity, old (of people), venerable (person), experienced, of long standing, always, all the time, of the past, very, outdated, (of meat etc) tough,","prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity
+3,562,以为,以為,yi3 wei2,yǐ wéi,"to think (sth is true that isn't), to be under the impression (falsely)",to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.),16582
+3,446,老,老,lao3,lǎo,"old, venerable, experienced (of people)","prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity
 old (of people)
 venerable (person)
 experienced
@@ -1154,59 +1141,61 @@ of the past
 very
 outdated
 (of meat etc) tough",16451
-3,530,位,位,wei4,wèi,"position, location, place, seat, classifier for people (honorific), classifier for binary bits (e.g. 十六位 16-bit or 2 bytes),","position
+3,530,位,位,wei4,wèi,"honorific classifier for people
+position, place, seat","position
 location
 place
 seat
 classifier for people (honorific)
 classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)
 (physics) potential",16368
-3,537,先,先,xian1,xiān,"early, prior, former, in advance, first,","early
+3,537,先,先,xian1,xiān,"first, early, former","early
 prior
 former
 in advance
 first",16060
-3,588,种,種,zhong3,zhǒng,"abbr. for 物種|物种, genus, race, seed, breed, species, strain, kind, type, has guts (i.e. courage), nerve, classifier for types: kind, sort, classifier for languages,","seed
+3,588,种,種,zhong3,zhǒng,"kind, type, species","seed
 species
 kind
 type
 classifier for types, kinds, sorts",15716
-3,482,其他,其他,qi2 ta1,qí tā,"other, the others, else, other than (that person), in addition to the person mentioned above,","other
+3,482,其他,其他,qi2 ta1,qí tā,other (than sth or sb),"other
 (sth or sb) else
 the rest",14163
 3,410,记得,記得,ji4 de5,jì de,"to remember,",to remember,13898
-3,406,或者,或者,huo4 zhe3,huò zhě,"or, possibly, maybe, perhaps,","or
+3,406,或者,或者,huo4 zhe3,huò zhě,or (statement),"or
 possibly; maybe; perhaps",13597
-3,392,过去,過去,guo4 qu4,guò qu,"(in the) past, former, previous, to go over, to pass by,","(in the) past
+3,392,过去,過去,guo4 qu4,guò qu,"(in the) past, to go over, to pass by,","(in the) past
 former
 previous
 to go over
 to pass by",13485
-3,347,担心,擔心,dan1 xin1,dān xīn,"anxious, worried, uneasy, to worry, to be anxious,","anxious
+3,347,担心,擔心,dan1 xin1,dān xīn,"anxious, worried","anxious
 worried
 uneasy
 to worry
 to be anxious",13238
-3,517,条,條,tiao2,tiáo,"strip, item, article, clause (of law or treaty), classifier for long thin things (ribbon, river, road, trousers etc),","strip
+3,517,条,條,tiao2,tiáo,"strip
+classifier for long thin things (ribbon, river, road, trousers etc),","strip
 item
 article
 clause (of law or treaty)
 classifier for long thin things (ribbon, river, road, trousers etc)",12508
-3,561,以前,以前,yi3 qian2,yǐ qián,"before, formerly, previous, ago,","before
+3,561,以前,以前,yi3 qian2,yǐ qián,"before, previous","before
 formerly
 previous
 ago",12391
-3,499,世界,世界,shi4 jie4,shì jiè,"world, CL:個|个[gè],","world
+3,499,世界,世界,shi4 jie4,shì jiè,world,"world
 CL:個|个[ge4]",11721
-3,589,重要,重要,zhong4 yao4,zhòng yào,"important, significant, major,","important
+3,589,重要,重要,zhong4 yao4,zhòng yào,"important, significant, major","important
 significant
 major",11677
-3,324,别人,別人,bie2 ren5,bié ren,"other people, others, other person,",other people; others; other person,11613
-3,407,机会,機會,ji1 hui4,jī huì,"opportunity, chance, occasion, CL:個|个[gè],","opportunity
+3,324,别人,別人,bie2 ren5,bié ren,"other people, others",other people; others; other person,11613
+3,407,机会,機會,ji1 hui4,jī huì,"opportunity, chance","opportunity
 chance
 occasion
 CL:個|个[ge4]",11571
-3,420,接,接,jie1,jiē,"to receive, to answer (the phone), to meet or welcome sb, to connect, to catch, to join, to extend, to take one's turn on duty, to take over for sb,","to receive
+3,420,接,接,jie1,jiē,"to receive, to connect, to catch","to receive
 to answer (the phone)
 to meet or welcome sb
 to connect
@@ -1215,32 +1204,32 @@ to join
 to extend
 to take one's turn on duty
 to take over for sb",10970
-3,319,比赛,比賽,bi3 sai4,bǐ sài,"competition (sports etc), match, CL:場|场,次[cì],","competition (sports etc)
+3,319,比赛,比賽,bi3 sai4,bǐ sài,"competition (sports etc), match","competition (sports etc)
 match
 CL:場|场[chang3],次[ci4]
 to compete",10726
-3,387,关系,關係,guan1 xi5,guān xì,"variant of 關係|关系[guān xì],","relation
+3,387,关系,關係,guan1 xi4,guān xì,"relation, relationship, to have to do with","relation
 relationship
 to concern
 to affect
 to have to do with
 guanxi
 CL:個|个[ge4]",10567
-3,458,马上,馬上,ma3 shang4,mǎ shàng,"at once, right away, immediately, on horseback (i.e. by military force),","at once
+3,458,马上,馬上,ma3 shang4,mǎ shàng,"at once, right away","at once
 right away
 immediately
 on horseback (i.e. by military force)",10413
-3,435,决定,決定,jue2 ding4,jué dìng,"to decide (to do something), to resolve, decision, CL:個|个,項|项[xiàng], certainly,","to decide (to do something)
+3,435,决定,決定,jue2 ding4,jué dìng,"to decide, decision","to decide (to do something)
 to resolve
 decision
 CL:個|个[ge4],項|项[xiang4]
 certainly",10318
-3,389,关于,關於,guan1 yu2,guān yú,"pertaining to, concerning, regarding, with regards to, about, a matter of,","pertaining to
+3,389,关于,關於,guan1 yu2,guān yú,"pertaining to, concerning, regarding, about","pertaining to
 concerning
 with regard to
 about
 a matter of",10266
-3,468,难,難,nan2,nán,"difficult (to...), problem, difficulty, difficult, not good,","difficult (to...)
+3,468,难,難,nan2,nán,difficult,"difficult (to...)
 problem
 difficulty
 difficult
@@ -1248,57 +1237,59 @@ not good",10254
 3,453,了解,了解,liao3 jie3,liǎo jiě,"to understand, to realize, to find out,","to understand
 to realize
 to find out",10127
-3,579,站,站,zhan4,zhàn,"station, to stand, to halt, to stop, branch of a company or organization, website,","station
+3,579,站,站,zhan4,zhàn,"station, bus stop
+to stand","station
 to stand
 to halt
 to stop
 branch of a company or organization
 website",10081
-3,425,结束,結束,jie2 shu4,jié shù,"termination, to finish, to end, to conclude, to close,","termination
+3,425,结束,結束,jie2 shu4,jié shù,"to finish, end, conclude","termination
 to finish
 to end
 to conclude
 to close",10050
-3,485,清楚,清楚,qing1 chu5,qīng chu,"clear, distinct, to understand thoroughly, to be clear about,","clear
+3,485,清楚,清楚,qing1 chu5,qīng chu,"clear, distinct, to be clear about,","clear
 distinct
 to understand thoroughly
 to be clear about",9836
-3,575,愿意,願意,yuan4 yi4,yuàn yì,"to wish, to want, ready, willing (to do sth),","to wish
+3,575,愿意,願意,yuan4 yi4,yuàn yì,willing (to do sth),"to wish
 to want
 ready
 willing (to do sth)",9191
-3,398,花,花,Hua1,huā,"flower, blossom, CL:朵,支,束,把,盆,簇[cù], fancy pattern, florid, to spend (money, time),",surname Hua,8947
-3,560,以后,以後,yi3 hou4,yǐ hòu,"after, later, afterwards, following, later on, in the future,","after
+3,398,花,花,hua1,huā,flower,,8947
+3,560,以后,以後,yi3 hou4,yǐ hòu,"after, later","after
 later
 afterwards
 following
 later on
 in the future",8698
-3,582,照片,照片,zhao4 pian4,zhào piàn,"photograph, picture, CL:張|张,套,幅[fú],","photograph
+3,582,照片,照片,zhao4 pian4,zhào piàn,"photograph, picture","photograph
 picture
 CL:張|张[zhang1],套[tao4],幅[fu2]",8687
-3,377,敢,敢,gan3,gǎn,"to dare, daring, (polite) may I venture,","to dare
+3,377,敢,敢,gan3,gǎn,"to dare, daring","to dare
 daring
 (polite) may I venture",8664
-3,596,总是,總是,zong3 shi4,zǒng shì,"always,",always,8552
-3,329,参加,參加,can1 jia1,cān jiā,"to participate, to take part, to join,","to participate
+3,596,总是,總是,zong3 shi4,zǒng shì,always,always,8552
+3,329,参加,參加,can1 jia1,cān jiā,"to participate, to take part","to participate
 to take part
 to join",8081
-3,310,办法,辦法,ban4 fa3,bàn fǎ,"means, method, way (of doing sth), CL:條|条,個|个[gè],","means
+3,310,办法,辦法,ban4 fa3,bàn fǎ,"means, method","means
 method
 way (of doing sth)
 CL:條|条[tiao2],個|个[ge4]",8059
-3,552,选择,選擇,xuan3 ze2,xuǎn zé,"to select, to pick, choice, option, alternative,","to select
+3,552,选择,選擇,xuan3 ze2,xuǎn zé,"choice, option, to select","to select
 to pick
 choice
 option
 alternative",7885
-3,401,坏,壞,huai4,huài,"bad, spoiled, broken, to break down,","bad
+3,401,坏,壞,huai4,huài,"spoiled, broken, bad","bad
 spoiled
 broken
 to break down
 (suffix) to the utmost",7842
-3,547,信,信,xin4,xìn,"letter, mail, CL:封[fēng], to trust, to believe, to profess faith in, truthful, confidence, trust, at will, at random,","letter
+3,547,信,信,xin4,xìn,"letter, mail
+trust, faith","letter
 mail
 CL:封[feng1]
 to trust
@@ -1309,30 +1300,29 @@ confidence
 trust
 at will
 at random",7450
-3,338,出现,出現,chu1 xian4,chū xiàn,"to appear, to arise, to emerge, to show up,","to appear
+3,338,出现,出現,chu1 xian4,chū xiàn,"to appear, to arise, to emerge, to show up","to appear
 to arise
 to emerge
 to show up",7322
-3,345,打算,打算,da3 suan4,dǎ suàn,"to plan, to intend, to calculate, plan, intention, calculation, CL:個|个[gè],","to plan
+3,345,打算,打算,da3 suan4,dǎ suàn,"to plan, to intend, to calculate","to plan
 to intend
 to calculate
 plan
 intention
 calculation
 CL:個|个[ge4]",7315
-3,512,特别,特別,te4 bie2,tè bié,"especially, special, particular, unusual,","unusual; special
+3,512,特别,特別,te4 bie2,tè bié,"special, particular, especially","unusual; special
 very; especially; particularly
 expressly; for a specific purpose
 (often followed by 是[shi4]) in particular",7131
-3,593,注意,注意,zhu4 yi4,zhù yì,"to take note of, to pay attention to,",to take note of; to pay attention to,7129
-3,481,其实,其實,qi2 shi2,qí shí,"actually, in fact, really,",actually; in fact; really,7067
-3,542,小心,小心,xiao3 xin1,xiǎo xīn,"to be careful, to take care,","to be careful
+3,593,注意,注意,zhu4 yi4,zhù yì,"to take note of, to pay attention to",to take note of; to pay attention to,7129
+3,481,其实,其實,qi2 shi2,qí shí,"actually, in fact",actually; in fact; really,7067
+3,542,小心,小心,xiao3 xin1,xiǎo xīn,"to be careful, to take care","to be careful
 to take care",7022
-3,431,久,久,jiu3,jiǔ,"(long) time, (long) duration of time,","(long) time
+3,431,久,久,jiu3,jiǔ,"(long, duration of) time","(long) time
 (long) duration of time",6966
-3,457,马,馬,Ma3,mǎ,"horse, CL:匹pi, horse or cavalry piece in Chinese chess, knight in Western chess,","surname Ma
-abbr. for Malaysia 馬來西亞|马来西亚[Ma3 lai2 xi1 ya4]",6796
-3,416,讲,講,jiang3,jiǎng,"to speak, to explain, to negotiate, to emphasise, to be particular about, as far as sth is concerned, speech, lecture,","to speak
+3,457,马,馬,ma3,mǎ,horse,,6796
+3,416,讲,講,jiang3,jiǎng,to speak (lecture or speech),"to speak
 to explain
 to negotiate
 to emphasize
@@ -1340,7 +1330,8 @@ to be particular about
 as far as sth is concerned
 speech
 lecture",6785
-3,323,表演,表演,biao3 yan3,biǎo yǎn,"play, show, performance, exhibition, to perform, to act, to demonstrate, CL:場|场[chǎng],","play
+3,323,表演,表演,biao3 yan3,biǎo yǎn,"performance, play, show
+to perform, to act","play
 show
 performance
 exhibition
@@ -1348,60 +1339,62 @@ to perform
 to act
 to demonstrate
 CL:場|场[chang3]",6658
-3,384,故事,故事,gu4 shi4,gù shi,"narrative, story, tale,",old practice,6551
-3,403,换,換,huan4,huàn,"to change, to exchange,","to exchange
+3,384,故事,故事,gu4 shi4,gù shi,"story, tale",old practice,6551
+3,403,换,換,huan4,huàn,"to exchange, to switch, to swap","to exchange
 to change (clothes etc)
 to substitute
 to switch
 to convert (currency)",6541
-3,424,结婚,結婚,jie2 hun1,jié hūn,"to marry, to get married, CL:次[cì],","to marry
+3,424,结婚,結婚,jie2 hun1,jié hūn,"to marry, to get married","to marry
 to get married
 CL:次[ci4]",6535
-3,362,段,段,Duan4,duàn,"paragraph, section, segment, stage (of a process), classifier for stories, periods of time, lengths of thread etc,",surname Duan,6430
-3,473,努力,努力,nu3 li4,nǔ lì,"great effort, to strive, to try hard,","to make an effort; to try hard; to strive
+3,362,段,段,duan4,duàn,"paragraph, section, segment",,6430
+3,473,努力,努力,nu3 li4,nǔ lì,"great effort, to strive, to try hard","to make an effort; to try hard; to strive
 hard-working; conscientious",6360
-3,394,害怕,害怕,hai4 pa4,hài pà,"to be afraid, to be scared,","to be afraid
+3,394,害怕,害怕,hai4 pa4,hài pà,"to be afraid, to be scared","to be afraid
 to be scared",6346
-3,379,刚才,剛才,gang1 cai2,gāng cái,"(just) a moment ago,","just now
+3,379,刚才,剛才,gang1 cai2,gāng cái,"just now, a moment ago,","just now
 a moment ago",6280
-3,422,节目,節目,jie2 mu4,jié mù,"program, item (on a program), CL:臺|台,個|个,套[tào],","program
+3,422,节目,節目,jie2 mu4,jié mù,"program, item (on a program)","program
 item (on a program)
 CL:臺|台[tai2],個|个[ge4],套[tao4]",6253
-3,452,辆,輛,liang4,liàng,"classifier for vehicles,",classifier for vehicles,6190
-3,526,万,万,mo4,wàn,"ten thousand, a great number,",used in 万俟[Mo4 qi2],6031
-3,386,关,關,Guan1,guān,"mountain pass, to close, to shut, to turn off, to concern, to involve,",surname Guan,5998
-3,426,解决,解決,jie3 jue2,jiě jué,"to settle (a dispute), to resolve, to solve, to dispose of, to dispatch,","to solve; to resolve; to settle (a problem)
+3,452,辆,輛,liang4,liàng,classifier for vehicles,classifier for vehicles,6190
+3,526,万,萬,wan4,wàn,ten thousand,,6031
+3,386,关,關,guan1,guān,"to close, to shut",,5998
+3,426,解决,解決,jie3 jue2,jiě jué,"to resolve, to solve, to settle (a dispute)","to solve; to resolve; to settle (a problem)
 to eliminate; to wipe out (an enemy, bandits etc)",5888
-3,311,办公室,辦公室,ban4 gong1 shi4,bàn gōng shì,"office, business premises, bureau, CL:間|间[jiān],","office
+3,311,办公室,辦公室,ban4 gong1 shi4,bàn gōng shì,"office, business premises","office
 business premises
 bureau
 CL:間|间[jian1]",5882
-3,483,奇怪,奇怪,qi2 guai4,qí guài,"strange, odd, to marvel, to be baffled,","strange
+3,483,奇怪,奇怪,qi2 guai4,qí guài,"strange, odd","strange
 odd
 to marvel
 to be baffled",5833
-3,519,同意,同意,tong2 yi4,tóng yì,"to agree, to consent, to approve,","to agree
+3,519,同意,同意,tong2 yi4,tóng yì,"to agree, to approve","to agree
 to consent
 to approve",5759
-3,571,游戏,遊戲,you2 xi4,yóu xì,"game, CL:場|场[chǎng], to play,","game
+3,571,游戏,遊戲,you2 xi4,yóu xì,game,"game
 CL:場|场[chang3]
 to play",5732
-3,312,帮忙,幫忙,bang1 mang2,bāng máng,"to help, to lend a hand, to do a favor, to do a good turn,","to help
+3,312,帮忙,幫忙,bang1 mang2,bāng máng,"to help, to lend a hand","to help
 to lend a hand
 to do a favor
 to do a good turn",5725
-3,390,国家,國家,guo2 jia1,guó jiā,"country, nation, state, CL:個|个[gè],","country; nation; state
+3,390,国家,國家,guo2 jia1,guó jiā,"country, nation, state","country; nation; state
 CL:個|个[ge4]",5576
-3,597,最近,最近,zui4 jin4,zuì jìn,"recent, recently, these days, latest, soon, nearest (of locations), shortest (of routes),","recently
+3,597,最近,最近,zui4 jin4,zuì jìn,"recent, recently","recently
 soon
 nearest",5532
-3,497,声音,聲音,sheng1 yin1,shēng yīn,"voice, sound, CL:個|个[gè],","voice
+3,497,声音,聲音,sheng1 yin1,shēng yīn,"voice, sound","voice
 sound
 CL:個|个[ge4]",5523
-3,437,可爱,可愛,ke3 ai4,kě ài,"adorable, cute, lovely,","adorable
+3,437,可爱,可愛,ke3 ai4,kě ài,"cute, adorable","adorable
 cute
 lovely",5498
-3,373,分,分,fen1,fēn,"to divide, to separate, to allocate, to distinguish (good and bad), part or subdivision, fraction, one tenth (of certain units), unit of length equivalent to 0.33 cm, minute, a point (in sports or games), 0.01 yuan (unit of money),","to divide; to separate
+3,373,分,分,fen1,fēn,"minute (of time)
+to divide, to separate
+to allocate, to distinguish (good and bad)","to divide; to separate
 to distribute; to allocate
 to distinguish (good and bad)
 (bound form) branch of (an organization); sub- (as in 分局[fen1 ju2])
@@ -1412,35 +1405,36 @@ minute (unit of time)
 minute (angular measurement unit)
 a point (in sports or games)
 0.01 yuan (unit of money)",5455
-3,524,完成,完成,wan2 cheng2,wán chéng,"to complete, to accomplish,",to complete; to accomplish,5450
-3,309,半,半,ban4,bàn,"half, semi-, incomplete, (after a number) and a half,","half
+3,524,完成,完成,wan2 cheng2,wán chéng,"to complete, to accomplish",to complete; to accomplish,5450
+3,309,半,半,ban4,bàn,half,"half
 semi-
 incomplete
 (after a number) and a half",5389
-3,554,要求,要求,yao1 qiu2,yāo qiú,"to request, to require, to stake a claim, to ask, to demand, CL:點|点[diǎn],","to request
+3,554,要求,要求,yao1 qiu2,yāo qiú,"to request, to demand, to require","to request
 to require
 requirement
 to stake a claim
 to ask
 to demand
 CL:點|点[dian3]",5217
-3,339,除了,除了,chu2 le5,chú le,"besides, apart from (... also...), in addition to, except (for),","besides
+3,339,除了,除了,chu2 le5,chú le,"besides (sth), apart from (sth)","besides
 apart from (... also...)
 in addition to
 except (for)",5147
-3,492,容易,容易,rong2 yi4,róng yì,"easy, likely, liable (to),","easy; straightforward
+3,492,容易,容易,rong2 yi4,róng yì,easy,"easy; straightforward
 likely; liable to; apt to",5146
-3,509,虽然,雖然,sui1 ran2,suī rán,"although, even though, even if,",although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc),5141
-3,417,教,教,Jiao4,jiāo,"to teach,",surname Jiao,5127
-3,450,脸,臉,lian3,liǎn,"face, CL:張|张,個|个[gè],","face
+3,509,虽然,雖然,sui1 ran2,suī rán,"although, even though",although; even though (often used correlatively with 可是[ke3 shi4] or 但是[dan4 shi4] etc),5141
+3,417,教,教,jiao4,jiāo,"to teach,",,5127
+3,450,脸,臉,lian3,liǎn,face,"face
 CL:張|张[zhang1],個|个[ge4]",5093
-3,413,简单,簡單,jian3 dan1,jiǎn dān,"simple, not complicated,","simple
+3,413,简单,簡單,jian3 dan1,jiǎn dān,"simple, not complicated","simple
 not complicated",5089
-3,412,检查,檢查,jian3 cha2,jiǎn chá,"inspection, to examine, to inspect, CL:次[cì],","inspection
+3,412,检查,檢查,jian3 cha2,jiǎn chá,"to inspect, to examine","inspection
 to examine
 to inspect
 CL:次[ci4]",4967
-3,498,使,使,shi3,shǐ,"to make, to cause, to enable, to use, to employ, to send, to instruct sb to do sth, envoy, messenger,","to make
+3,498,使,使,shi3,shǐ,"to make, to cause
+to use, to employ, to send","to make
 to cause
 to enable
 to use
@@ -1449,221 +1443,225 @@ to send
 to instruct sb to do sth
 envoy
 messenger",4915
-3,566,音乐,音樂,yin1 yue4,yīn yuè,"music, CL:張|张,曲,段[duàn],","music
+3,566,音乐,音樂,yin1 yue4,yīn yuè,music,"music
 CL:張|张[zhang1],曲[qu3],段[duan4]",4776
-3,576,越,越,Yue4,yuè,"to exceed, to climb over, to surpass, the more... the more,","generic word for peoples or states of south China or south Asia at different historical periods
-abbr. for Vietnam 越南",4457
-3,581,照顾,照顧,zhao4 gu5,zhào gu,"to take care of, to show consideration, to attend to, to look after,","to take care of
+3,576,越,越,yue4,yuè,"the more... the more, to surpass",,4457
+3,581,照顾,照顧,zhao4 gu5,zhào gu,"to take care of, to look after","to take care of
 to show consideration
 to attend to
 to look after",4451
-3,343,聪明,聰明,cong1 ming5,cōng ming,"acute (of sight and hearing), clever, intelligent, bright, smart,","intelligent
+3,343,聪明,聰明,cong1 ming5,cōng ming,"smart, clever, intelligent","intelligent
 clever
 bright
 smart
 acute (of sight and hearing)",4415
-3,516,甜,甜,tian2,tián,"sweet,",sweet,4400
-3,521,突然,突然,tu1 ran2,tū rán,"sudden, abrupt, unexpected,",sudden; abrupt; unexpected,4366
-3,586,终于,終於,zhong1 yu2,zhōng yú,"at last, in the end, finally, eventually,","at last
+3,516,甜,甜,tian2,tián,sweet,sweet,4400
+3,521,突然,突然,tu1 ran2,tū rán,suddenly,sudden; abrupt; unexpected,4366
+3,586,终于,終於,zhong1 yu2,zhōng yú,"finally, at last","at last
 in the end
 finally
 eventually",4273
-3,592,祝,祝,Zhu4,zhù,"to wish, to express good wishes, to pray, (old) wizard,",surname Zhu,4136
-3,441,口,口,kou3,kǒu,"mouth, classifier for things with mouths (people, domestic animals, cannons, wells etc), classifier for bites or mouthfuls,","mouth
+3,592,祝,祝,zhu4,zhù,"to wish, to express good wishes",,4136
+3,441,口,口,kou3,kǒu,mouth,"mouth
 classifier for things with mouths (people, domestic animals, cannons, wells etc)
 classifier for bites or mouthfuls",4127
-3,448,礼物,禮物,li3 wu4,lǐ wù,"gift, present, CL:件,個|个,份[fèn],","gift; present
+3,448,礼物,禮物,li3 wu4,lǐ wù,"gift, present","gift; present
 CL:件[jian4],個|个[ge4],份[fen4]",3988
-3,520,头发,頭髮,tou2 fa5,tóu fa,"hair (on the head),",hair (on the head),3955
-3,388,关心,關心,guan1 xin1,guān xīn,"to care for sth, caring, concerned,","to be concerned about
+3,520,头发,頭髮,tou2 fa5,tóu fa,hair (on the head),hair (on the head),3955
+3,388,关心,關心,guan1 xin1,guān xīn,"to care about sth, caring, concerned,","to be concerned about
 to care about",3926
-3,549,兴趣,興趣,xing4 qu4,xìng qù,"interest (desire to know about sth), interest (thing in which one is interested), hobby, CL:個|个[gè],","interest (desire to know about sth)
+3,549,兴趣,興趣,xing4 qu4,xìng qù,interest (in sth),"interest (desire to know about sth)
 interest (thing in which one is interested); hobby
 CL:個|个[ge4]",3922
-3,418,脚,腳,jiao3,jiǎo,"foot, leg, base, kick, CL:雙|双,隻|只[zhī],","foot
+3,418,脚,腳,jiao3,jiǎo,"foot, base (of an object)","foot
 leg (of an animal or an object)
 base (of an object)
 CL:雙|双[shuang1],隻|只[zhi1]
 classifier for kicks",3836
-3,496,生气,生氣,sheng1 qi4,shēng qì,"angry, mad, offended, animated, to get angry, to be enraged, to take offense, animation,","to get angry
+3,496,生气,生氣,sheng1 qi4,shēng qì,"angry, mad","to get angry
 to take offense
 angry
 vitality
 liveliness",3828
-3,442,哭,哭,ku1,kū,"to cry, to weep,",to cry; to weep,3813
-3,400,画,畫,hua4,huà,"to draw, picture, painting, CL:幅,張|张[zhāng],","to draw; to paint
+3,442,哭,哭,ku1,kū,"to cry, to weep",to cry; to weep,3813
+3,400,画,畫,hua4,huà,"to draw, to paint
+picture, painting","to draw; to paint
 picture; painting (CL:幅[fu2],張|张[zhang1])
 to draw (a line) (variant of 劃|划[hua4])
 stroke of a Chinese character (variant of 劃|划[hua4])
 (calligraphy) horizontal stroke (variant of 劃|划[hua4])",3795
-3,471,年轻,年輕,nian2 qing1,nián qīng,"young,",young,3776
-3,313,包,包,Bao1,bāo,"to cover, to wrap, to hold, to include, to take charge of, to contract (to or for), package, wrapper, container, bag, to hold or embrace, bundle, packet, CL:個|个,隻|只[zhī],",surname Bao,3748
-3,523,腿,腿,tui3,tuǐ,"leg, CL:條|条[tiáo],","leg
+3,471,年轻,年輕,nian2 qing1,nián qīng,young,young,3776
+3,313,包,包,bao1,bāo,"bundle, pack, bag
+to wrap, to surround",,3748
+3,523,腿,腿,tui3,tuǐ,leg,"leg
 CL:條|条[tiao2]",3747
-3,527,忘记,忘記,wang4 ji4,wàng jì,"to forget,",to forget,3632
-3,307,搬,搬,ban1,bān,"to move, to shift, to remove, to transport, to apply indiscriminately, to copy mechanically,","to move (i.e. relocate oneself)
+3,527,忘记,忘記,wang4 ji4,wàng jì,to forget,to forget,3632
+3,307,搬,搬,ban1,bān,"to move (house), to shift, to transport","to move (i.e. relocate oneself)
 to move (sth relatively heavy or bulky)
 to shift
 to copy indiscriminately",3598
-3,455,楼,樓,Lou2,lóu,"house with more than 1 story, storied building, floor, CL:層|层,座,棟|栋[dòng],",surname Lou,3580
-3,574,遇到,遇到,yu4 dao4,yù dào,"to meet, to run into, to come across,",to meet; to run into; to come across,3536
-3,545,新闻,新聞,xin1 wen2,xīn wén,"news, CL:條|条,個|个[gè],","news
+3,455,楼,樓,lou2,lóu,"floor, story (within a building)",,3580
+3,574,遇到,遇到,yu4 dao4,yù dào,"to come across, to run into",to meet; to run into; to come across,3536
+3,545,新闻,新聞,xin1 wen2,xīn wén,news,"news
 CL:條|条[tiao2],個|个[ge4]",3441
-3,318,比较,比較,bi3 jiao4,bǐ jiào,"to compare, to contrast, comparatively, relatively, quite, comparison,","to compare
+3,318,比较,比較,bi3 jiao4,bǐ jiào,"relatively, comparatively","to compare
 to contrast
 comparatively
 relatively
 quite
 comparison",3388
-3,506,双,雙,Shuang1,shuāng,"two, double, pair, both,",surname Shuang,3384
-3,414,见面,見面,jian4 mian4,jiàn miàn,"to meet, to see sb, CL:次[cì],","to meet; to see each other
+3,506,双,雙,shuang1,shuāng,pair (of sth),,3384
+3,414,见面,見面,jian4 mian4,jiàn miàn,"to meet, to see sb","to meet; to see each other
 CL:次[ci4]",3366
-3,428,经常,經常,jing1 chang2,jīng cháng,"day to day, everyday, daily, frequently, constantly, regularly, often,","frequently; constantly; regularly; often
+3,428,经常,經常,jing1 chang2,jīng cháng,"often, frequently","frequently; constantly; regularly; often
 day-to-day; everyday; daily",3364
-3,336,城市,城市,cheng2 shi4,chéng shì,"city, town, CL:座[zuò],","city; town
+3,336,城市,城市,cheng2 shi4,chéng shì,"city, town","city; town
 CL:座[zuo4]",3349
-3,558,一会儿,一會兒,yi1 hui4 r5,yī huì r,"a while, also pr. [yī huǐ r],","a moment
+3,558,一会儿,一會兒,yi1 hui4 r5,yī huì r,"a while, a moment","a moment
 a while
 in a moment
 now...now...
 also pr. [yi1 hui3 r5]",3339
-3,374,附近,附近,fu4 jin4,fù jìn,"(in the) vicinity, nearby, neighboring, next to,","nearby; neighboring
+3,374,附近,附近,fu4 jin4,fù jìn,nearby,"nearby; neighboring
 (in the) vicinity (of); neighborhood",3300
-3,427,借,借,jie4,jiè,"to lend, to borrow, by means of, to take (an opportunity),","to lend
+3,427,借,借,jie4,jiè,"to lend, to borrow","to lend
 to borrow
 by means of
 to take (an opportunity)",3185
-3,569,影响,影響,ying3 xiang3,yǐng xiǎng,"an influence, an effect, to influence, to affect (usually adversely), to disturb, CL:股[gǔ],","influence
+3,569,影响,影響,ying3 xiang3,yǐng xiǎng,"to affect (usually adversely)
+influence, effect","influence
 effect
 to influence
 to affect (usually adversely)
 to disturb
 CL:股[gu3]",3085
-3,491,认真,認真,ren4 zhen1,rèn zhēn,"conscientious, earnest, serious, to take seriously, to take to heart,","conscientious
+3,491,认真,認真,ren4 zhen1,rèn zhēn,"serious, to take seriously, earnest, ","conscientious
 earnest
 serious
 to take seriously
 to take to heart",3048
-3,461,米,米,Mi3,mǐ,"rice, CL:粒[lì], meter (classifier),",surname Mi,3034
-3,332,差,差,cha1,chà,"to differ from, to fall short of, lacking, wrong, inferior,","difference; discrepancy
+3,461,米,米,mi3,mǐ,"rice, meter",,3034
+3,332,差,差,cha4,chà,"lacking, to fall short of","difference; discrepancy
 (math.) difference (amount remaining after a subtraction)
 (literary) a little; somewhat; slightly",3016
-3,567,银行,銀行,yin2 hang2,yín háng,"bank, CL:家,個|个[gè],","bank
-CL:家[jia1],個|个[ge4]",3003
-3,305,安静,安靜,an1 jing4,ān jìng,"quiet, peaceful, calm,","quiet
+3,567,银行,銀行,yin2 hang2,yín háng,bank,bank,3003
+3,305,安静,安靜,an1 jing4,ān jìng,"quiet, peaceful, calm","quiet
 peaceful
 calm",2951
-3,364,多么,多麼,duo1 me5,duō me,"how (wonderful etc), what (a great idea etc), however (difficult it may be etc),","how (wonderful etc)
+3,364,多么,多麼,duo1 me5,duō me,"emphasize or intensify adjective, similar to ""how [adj]""","how (wonderful etc)
 what (a great idea etc)
 however (difficult it may be etc)
 (in interrogative sentences) how (much etc)
 to what extent",2945
-3,365,饿,餓,e4,è,"to be hungry, hungry,","to be hungry
+3,365,饿,餓,e4,è,hungry,"to be hungry
 hungry
 to starve (sb)",2943
-3,380,根据,根據,gen1 ju4,gēn jù,"according to, based on, basis, foundation, CL:個|个[gè],","according to
+3,380,根据,根據,gen1 ju4,gēn jù,"according to, based on, basis","according to
 based on
 basis
 foundation
 CL:個|个[ge4]",2813
 3,408,几乎,幾乎,ji1 hu1,jī hū,"almost, nearly, practically,",almost; nearly; practically,2808
-3,360,动物,動物,dong4 wu4,dòng wù,"animal, CL:隻|只,群,個|个[gè],","animal
+3,360,动物,動物,dong4 wu4,dòng wù,animal,"animal
 CL:隻|只[zhi1],群[qun2],個|个[ge4]",2636
-3,532,西,西,Xi1,xī,"west,","the West
-abbr. for Spain 西班牙[Xi1 ban1 ya2]
-Spanish",2606
-3,564,一边,一邊,yi1 bian1,yī biān,"one side, either side, on the one hand, on the other hand, doing while,","one side
+3,532,西,西,xi1,xī,west,,2606
+3,564,一边,一邊,yi1 bian1,yī biān,"lit: one side
+used for doing (sth) while (sth else)","one side
 either side
 on the one hand
 on the other hand
 doing while",2594
-3,501,舒服,舒服,shu1 fu5,shū fu,"comfortable, feeling well,","comfortable
+3,501,舒服,舒服,shu1 fu5,shū fu,"comfortable, feeling well","comfortable
 feeling well",2590
-3,563,一般,一般,yi1 ban1,yī bān,"same, ordinary, so-so, common, general, generally, in general,","same
+3,563,一般,一般,yi1 ban1,yī bān,"common, ordinary, in general
+same","same
 ordinary
 so-so
 common
 general
 generally
 in general",2586
-3,502,叔叔,叔叔,shu1 shu5,shū shu,"father's younger brother, uncle, Taiwan pr. [shú shu], CL:個|个[gè],","father's younger brother
+3,502,叔叔,叔叔,shu1 shu5,shū shu,"uncle
+father's younger brother","father's younger brother
 uncle
 Taiwan pr. [shu2 shu5]
 CL:個|个[ge4]",2485
-3,513,疼,疼,teng2,téng,"(it) hurts, sore, to love dearly,","(it) hurts; sore
+3,513,疼,疼,teng2,téng,"(it) hurts, sore","(it) hurts; sore
 to love dearly",2477
-3,337,迟到,遲到,chi2 dao4,chí dào,"to arrive late,",to arrive late,2413
-3,544,鞋,鞋,xie2,xié,"shoe, CL:雙|双,隻|只[zhī],","shoe
+3,337,迟到,遲到,chi2 dao4,chí dào,to arrive late,to arrive late,2413
+3,544,鞋,鞋,xie2,xié,shoe,"shoe
 CL:雙|双[shuang1],隻|只[zhi1]",2332
-3,449,历史,歷史,li4 shi3,lì shǐ,"history, CL:門|门,段[duàn],","history
+3,449,历史,歷史,li4 shi3,lì shǐ,history,"history
 CL:門|门[men2],段[duan4]",2325
-3,477,啤酒,啤酒,pi2 jiu3,pí jiǔ,"beer, CL:杯,瓶,罐,桶,缸[gāng],","beer (loanword)
+3,477,啤酒,啤酒,pi2 jiu3,pí jiǔ,beer,"beer (loanword)
 CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]",2310
-3,361,短,短,duan3,duǎn,"short or brief, to lack, weak point, fault,","short
+3,361,短,短,duan3,duǎn,"short, brief
+to lack, weak point, fault","short
 brief
 to lack
 weak point
 fault",2303
-3,429,经过,經過,jing1 guo4,jīng guò,"to pass, to go through, process, course, CL:個|个[gè],","to pass
+3,429,经过,經過,jing1 guo4,jīng guò,"as a result of, through
+process, course
+to pass, to go through","to pass
 to go through
 process
 course
 CL:個|个[ge4]",2251
-3,590,周末,週末,zhou1 mo4,zhōu mò,"weekend,",weekend,2250
-3,308,班,班,Ban1,bān,"team, class, squad, work shift, ranking, CL:個|个[gè], classifier for groups,",surname Ban,2235
-3,533,习惯,習慣,xi2 guan4,xí guàn,"habit, custom, usual practice, to be used to, CL:個|个[gè],","habit
+3,590,周末,週末,zhou1 mo4,zhōu mò,weekend,weekend,2250
+3,308,班,班,ban1,bān,"team, class, squad",surname Ban,2235
+3,533,习惯,習慣,xi2 guan4,xí guàn,"habit, to be used to","habit
 custom
 usual practice
 to be used to
 CL:個|个[ge4]",2223
-3,383,公园,公園,gong1 yuan2,gōng yuán,"public park, CL:場|场[chǎng],","park (for public recreation)
+3,383,公园,公園,gong1 yuan2,gōng yuán,public park,"park (for public recreation)
 CL:個|个[ge4],座[zuo4]",2206
-3,376,干净,乾淨,gan1 jing4,gān jìng,"clean, neat,","clean
+3,376,干净,乾淨,gan1 jing4,gān jìng,clean,"clean
 neat",2189
-3,472,鸟,鳥,diao3,niǎo,"bird, CL:隻|只,群[qún],","variant of 屌[diao3]
-penis",2172
-3,415,健康,健康,jian4 kang1,jiàn kāng,"health, healthy,","health
+3,472,鸟,鳥,niao3,niǎo,bird,,2172
+3,415,健康,健康,jian4 kang1,jiàn kāng,"health, healthy","health
 healthy",2168
-3,503,树,樹,shu4,shù,"tree, CL:棵[kē], to cultivate, to set up,","tree
+3,503,树,樹,shu4,shù,tree,"tree
 CL:棵[ke1]
 to cultivate
 to set up",2150
-3,348,蛋糕,蛋糕,dan4 gao1,dàn gāo,"cake, CL:塊|块,個|个[gè],","cake
+3,348,蛋糕,蛋糕,dan4 gao1,dàn gāo,cake,"cake
 CL:塊|块[kuai4],個|个[ge4]",1987
-3,439,客人,客人,ke4 ren2,kè rén,"visitor, guest, customer, client, CL:位[wèi],","visitor
+3,439,客人,客人,ke4 ren2,kè rén,"visitor, guest, customer","visitor
 guest
 customer
 client
 CL:位[wei4]",1939
-3,405,会议,會議,hui4 yi4,huì yì,"meeting, conference, CL:場|场,屆|届[jiè],","meeting
+3,405,会议,會議,hui4 yi4,huì yì,"meeting, conference","meeting
 conference
 CL:場|场[chang3],屆|届[jie4]",1918
-3,466,奶奶,奶奶,nai3 nai5,nǎi nai,"(informal) grandma (paternal grandmother), (respectful) mistress of the house, CL:位[wèi],","(informal) grandma (paternal grandmother)
+3,466,奶奶,奶奶,nai3 nai5,nǎi nai,(informal) grandma (paternal grandmother),"(informal) grandma (paternal grandmother)
 (respectful) mistress of the house
 CL:位[wei4]
 (coll.) boobies
 breasts",1910
-3,443,裤子,袴子,ku4 zi5,kù zi,"trousers, pants, CL:條|条[tiáo],","variant of 褲子|裤子, trousers
+3,443,裤子,袴子,ku4 zi5,kù zi,"pants, trousers","variant of 褲子|裤子, trousers
 pants",1871
-3,352,低,低,di1,dī,"low, beneath, to lower (one's head), to let droop, to hang down, to incline,","low
+3,352,低,低,di1,dī,"low, beneath, to lower (one's head)","low
 beneath
 to lower (one's head)
 to let droop
 to hang down
 to incline",1820
-3,454,邻居,鄰居,lin2 ju1,lín jū,"neighbor, next door, CL:個|个[gè],","neighbor
+3,454,邻居,鄰居,lin2 ju1,lín jū,neighbor,"neighbor
 next door
 CL:個|个[ge4]",1803
-3,322,表示,表示,biao3 shi4,biǎo shì,"to express, to show, to say, to state, to indicate, to mean,","to express
+3,322,表示,表示,biao3 shi4,biǎo shì,"to express (thoughts, feelings etc), to show","to express
 to show
 to say
 to state
 to indicate
 to mean",1761
-3,430,经理,經理,jing1 li3,jīng lǐ,"manager, director, CL:個|个,位,名[míng],","manager
+3,430,经理,經理,jing1 li3,jīng lǐ,manager,"manager
 director
 CL:個|个[ge4],位[wei4],名[ming2]",1745
-3,599,作用,作用,zuo4 yong4,zuò yòng,"to act on, to affect, action, function, activity, impact, result, effect, purpose, intent, to play a role, corresponds to English -ity, -ism, -ization, CL:個|个[gè],","to act on
+3,599,作用,作用,zuo4 yong4,zuò yòng,"function, effect, role","to act on
 to affect
 action
 function
@@ -1674,316 +1672,317 @@ effect
 purpose
 intent
 (suffix) -ation, -tion etc, as in 抑制作用[yi4 zhi4 zuo4 yong4], inhibition",1739
-3,331,层,層,ceng2,céng,"layer, stratum, laminated, floor (of a building), storey, classifier for layers, repeated, sheaf (math.),","to pile on top of one another
+3,331,层,層,ceng2,céng,"layer, stratum, floors, storey (of a building, used when counting)","to pile on top of one another
 layer; stratum
 floor (of a building); story
 (math.) sheaf
 classifier for layers",1716
-3,351,灯,燈,deng1,dēng,"lamp, light, lantern, CL:盞|盏[zhǎn],","lamp
+3,351,灯,燈,deng1,dēng,"lamp, light, lantern","lamp
 light
 lantern
 CL:盞|盏[zhan3]",1643
-3,451,练习,練習,lian4 xi2,liàn xí,"exercise, drill, practice, CL:個|个[gè],","to practice
+3,451,练习,練習,lian4 xi2,liàn xí,"practice, exercise, drill","to practice
 exercise
 drill
 practice
 CL:個|个[ge4]",1637
-3,555,爷爷,爺爺,ye2 ye5,yé ye,"(informal) father's father, paternal grandfather, CL:個|个[gè],","(coll.) father's father
+3,555,爷爷,爺爺,ye2 ye5,yé ye,(informal) paternal grandfather,"(coll.) father's father
 paternal grandfather
 CL:個|个[ge4]",1625
-3,340,厨房,廚房,chu2 fang2,chú fáng,"kitchen, CL:間|间[jiān],","kitchen
+3,340,厨房,廚房,chu2 fang2,chú fáng,kitchen,"kitchen
 CL:間|间[jian1]",1623
-3,445,蓝,藍,Lan2,lán,"blue, indigo plant,",surname Lan,1610
-3,469,难过,難過,nan2 guo4,nán guò,"to feel sad, to feel unwell, (of life) to be difficult,","to feel sad
+3,445,蓝,藍,lan2,lán,blue,,1610
+3,469,难过,難過,nan2 guo4,nán guò,"to feel sad, suffer hard times","to feel sad
 to feel unwell
 (of life) to be difficult",1605
-3,587,中间,中間,zhong1 jian1,zhōng jiān,"between, intermediate, mid, middle,","the middle; the inside
+3,587,中间,中間,zhong1 jian1,zhōng jiān,"between, middle, among","the middle; the inside
 in the middle; within; between; among
 during; in the meantime",1594
-3,460,帽子,帽子,mao4 zi5,mào zi,"hat, cap, (fig.) label, bad name, CL:頂|顶[dǐng],","hat
+3,460,帽子,帽子,mao4 zi5,mào zi,hat,"hat
 cap
 (fig.) label
 bad name
 CL:頂|顶[ding3]",1553
-3,508,司机,司機,si1 ji1,sī jī,"chauffeur, driver, CL:個|个[gè],","chauffeur
+3,508,司机,司機,si1 ji1,sī jī,"chauffeur, driver","chauffeur
 driver
 CL:個|个[ge4]",1550
-3,432,旧,舊,jiu4,jiù,"old, opposite: new 新, former, worn (with age),","old
+3,432,旧,舊,jiu4,jiù,"old, worn (with age)","old
 opposite: new 新
 former
 worn (with age)",1530
-3,511,糖,糖,tang2,táng,"sugar, sweets, candy, CL:顆|颗,塊|块[kuài],","sugar
+3,511,糖,糖,tang2,táng,"sugar, sweets, candy","sugar
 sweets
 candy
 CL:顆|颗[ke1],塊|块[kuai4]",1530
-3,459,满意,滿意,man3 yi4,mǎn yì,"satisfied, pleased, to one's satisfaction,","satisfied
+3,459,满意,滿意,man3 yi4,mǎn yì,"satisfied, pleased, content","satisfied
 pleased
 to one's satisfaction",1436
-3,480,骑,騎,ji4,qí,"to ride (an animal or bike), to sit astride,","(Tw) saddle horse
-mounted soldier",1423
-3,510,太阳,太陽,tai4 yang5,tài yáng,"sun, CL:個|个[gè],","sun
+3,480,骑,騎,qi2,qí,"to ride (an animal or bike), to sit astride,",,1423
+3,510,太阳,太陽,tai4 yang2,tài yáng,sun,"sun
 CL:個|个[ge4]
 abbr. for 太陽穴|太阳穴[tai4 yang2 xue2]",1419
-3,409,极,極,ji2,jí,"extremely, pole (geography, physics), utmost, top,","extremely
+3,409,极,極,ji2,jí,extremely,"extremely
 pole (geography, physics)
 utmost
 top",1408
-3,591,主要,主要,zhu3 yao4,zhǔ yào,"main, principal, major, primary,","main
+3,591,主要,主要,zhu3 yao4,zhǔ yào,"main, principal, major, primary","main
 principal
 major
 primary",1393
-3,518,同事,同事,tong2 shi4,tóng shì,"colleague, co-worker, CL:個|个,位[wèi],","colleague; co-worker
+3,518,同事,同事,tong2 shi4,tóng shì,"colleague, co-worker","colleague; co-worker
 CL:個|个[ge4],位[wei4]",1392
-3,317,鼻子,鼻子,bi2 zi5,bí zi,"nose, CL:個|个,隻|只[zhī],","nose
+3,317,鼻子,鼻子,bi2 zi5,bí zi,nose,"nose
 CL:個|个[ge4],隻|只[zhi1]",1374
-3,419,角,角,Jue2,jiǎo,"angle, corner, horn, horn-shaped, unit of money equal to 0.1 yuan, CL:個|个[gè],",surname Jue,1355
-3,321,变化,變化,bian4 hua4,biàn huà,"change, variation, to change, to vary, CL:個|个[gè],","(intransitive) to change; to vary
+3,419,角,角,jiao3,jiǎo,"angle, corner",,1355
+3,321,变化,變化,bian4 hua4,biàn huà,"change, variation
+to change, to vary","(intransitive) to change; to vary
 change; variation
 CL:個|个[ge4]",1349
-3,359,东,東,Dong1,dōng,"east, host (i.e. sitting on east side of guest), landlord,",surname Dong,1347
-3,470,年级,年級,nian2 ji2,nián jí,"grade, CL:個|个[gè],","grade
+3,359,东,東,dong1,dōng,East,,1347
+3,470,年级,年級,nian2 ji2,nián jí,"grade, year (in school)","grade
 year (in school, college etc)
 CL:個|个[ge4]",1317
-3,402,环境,環境,huan2 jing4,huán jìng,"environment, circumstances, surroundings, CL:個|个[gè], ambient,","environment
+3,402,环境,環境,huan2 jing4,huán jìng,environment,"environment
 circumstances
 surroundings
 CL:個|个[ge4]
 ambient",1316
-3,476,胖,胖,pan2,pàng,"fat, plump,","healthy
-at ease",1209
-3,355,地图,地圖,di4 tu2,dì tú,"map, CL:張|张,本[běn],","map
+3,476,胖,胖,pang4,pàng,"fat, plump",,1209
+3,355,地图,地圖,di4 tu2,dì tú,map,"map
 CL:張|张[zhang1],本[ben3]",1206
-3,462,面包,麵包,mian4 bao1,miàn bāo,"bread, CL:片,袋,塊|块[kuài],","bread
+3,462,面包,麵包,mian4 bao1,miàn bāo,bread,"bread
 CL:片[pian4],袋[dai4],塊|块[kuai4]",1201
-3,539,相同,相同,xiang1 tong2,xiāng tóng,"identical, same,","identical
+3,539,相同,相同,xiang1 tong2,xiāng tóng,"identical, same","identical
 same",1183
-3,367,耳朵,耳朵,er3 duo5,ěr duo,"ear, CL:隻|只,個|个,對|对[duì],","ear
+3,367,耳朵,耳朵,er3 duo5,ěr duo,ear,"ear
 CL:隻|只[zhi1],個|个[ge4],對|对[dui4]
 handle (on a cup)",1171
-3,487,裙子,裙子,qun2 zi5,qún zi,"skirt, CL:條|条[tiáo],","skirt
+3,487,裙子,裙子,qun2 zi5,qún zi,skirt,"skirt
 CL:條|条[tiao2]",1163
-3,546,新鲜,新鮮,xin1 xian1,xīn xiān,"fresh (experience, food etc), freshness, novel, uncommon,","fresh (experience, food etc)
+3,546,新鲜,新鮮,xin1 xian1,xīn xiān,fresh,"fresh (experience, food etc)
 freshness
 novel
 uncommon",1145
-3,372,放心,放心,fang4 xin1,fàng xīn,"to feel relieved, to feel reassured, to be at ease,","to feel relieved
+3,372,放心,放心,fang4 xin1,fàng xīn,"to feel relieved or reassured, to be at ease,","to feel relieved
 to feel reassured
 to be at ease",1144
-3,395,河,河,he2,hé,"river, CL:條|条,道[dào],","river
+3,395,河,河,he2,hé,river,"river
 CL:條|条[tiao2],道[dao4]",1135
-3,467,南,南,Nan2,nán,"south,",surname Nan,1094
-3,433,举行,舉行,ju3 xing2,jǔ xíng,"to hold (a meeting, ceremony etc),","to hold (a meeting, ceremony etc)",1071
-3,489,热情,熱情,re4 qing2,rè qíng,"cordial, enthusiastic, passion, passionate, passionately,","cordial
+3,467,南,南,nan2,nán,South,,1094
+3,433,举行,舉行,ju3 xing2,jǔ xíng,"to hold (a meeting, ceremony etc)","to hold (a meeting, ceremony etc)",1071
+3,489,热情,熱情,re4 qing2,rè qíng,"warm, enthusiastic, zeal, fervor","cordial
 enthusiastic
 passion
 passionate
 passionately",1059
-3,356,电梯,電梯,dian4 ti1,diàn tī,"elevator, escalator, CL:臺|台,部[bù],","elevator
+3,356,电梯,電梯,dian4 ti1,diàn tī,elevator,"elevator
 escalator
 CL:臺|台[tai2],部[bu4]",1025
-3,370,方便,方便,fang1 bian4,fāng biàn,"convenient, to help out, to make things easy for people, convenience, suitable, having money to spare, (euphemism) to go to the toilet,","convenient
+3,370,方便,方便,fang1 bian4,fāng biàn,convenient,"convenient
 suitable
 to facilitate
 to make things easy
 having money to spare
 (euphemism) to relieve oneself",983
-3,404,黄,黃,Huang2,huáng,"yellow, pornographic, to fall through,",surname Huang or Hwang,979
-3,534,洗手间,洗手間,xi3 shou3 jian1,xǐ shǒu jiān,"toilet, lavatory, washroom,","toilet
+3,404,黄,黄,huang2,huáng,yellow,,979
+3,534,洗手间,洗手間,xi3 shou3 jian1,xǐ shǒu jiān,washroom,"toilet
 lavatory
 washroom",955
-3,535,洗澡,洗澡,xi3 zao3,xǐ zǎo,"to bathe, to take a shower,","to bathe
+3,535,洗澡,洗澡,xi3 zao3,xǐ zǎo,"to bathe, to take a shower","to bathe
 to take a shower",948
-3,543,校长,校長,xiao4 zhang3,xiào zhǎng,"(college, university) president, headmaster, CL:個|个,位,名[míng],","(college, university) president
+3,543,校长,校長,xiao4 zhang3,xiào zhǎng,"(school) principal, headmaster","(college, university) president
 headmaster
 CL:個|个[ge4],位[wei4],名[ming2]",932
-3,507,水平,水平,shui3 ping2,shuǐ píng,"level (of achievement etc), standard, horizontal,","level (of achievement etc)
+3,507,水平,水平,shui3 ping2,shuǐ píng,"level (of achievement), standard","level (of achievement etc)
 standard
 horizontal",913
-3,598,作业,作業,zuo4 ye4,zuò yè,"school assignment, homework, work, task, operation, CL:個|个[gè], to operate,","school assignment
+3,598,作业,作業,zuo4 ye4,zuò yè,"homework, school assignment","school assignment
 homework
 work
 task
 operation
 CL:個|个[ge4]
 to operate",910
-3,357,电子,電子,dian4 zi3,diàn zǐ,"electronic, electron (particle physics),","electronic
+3,357,电子,電子,dian4 zi3,diàn zǐ,"electronic, electron","electronic
 electron (particle physics)",892
-3,334,衬衫,襯衫,chen4 shan1,chèn shān,"shirt, blouse, CL:件[jiàn],","shirt
+3,334,衬衫,襯衫,chen4 shan1,chèn shān,"shirt, blouse","shirt
 blouse
 CL:件[jian4]",848
-3,335,成绩,成績,cheng2 ji4,chéng jì,"achievement, performance records, grades, CL:項|项,個|个[gè],","achievement
+3,335,成绩,成績,cheng2 ji4,chéng jì,grades (school),"achievement
 performance records
 grades
 CL:項|项[xiang4],個|个[ge4]",821
-3,525,碗,㼝,wan3,wǎn,"bowl, cup, CL:隻|只,個|个[gè],",variant of 碗[wan3],815
-3,553,眼镜,眼鏡,yan3 jing4,yǎn jìng,"spectacles, eyeglasses, CL:副[fù],","spectacles
+3,525,碗,碗,wan3,wǎn,bowl,,815
+3,553,眼镜,眼鏡,yan3 jing4,yǎn jìng,"eyeglasses, spectacles","spectacles
 eyeglasses
 CL:副[fu4]",799
-3,301,阿姨,阿姨,a1 yi2,ā yí,"maternal aunt, step-mother, childcare worker, nursemaid, woman of similar age to one's parents (term of address used by child), CL:個|个[gè],","maternal aunt
+3,301,阿姨,阿姨,a1 yi2,ā yí,maternal aunt,"maternal aunt
 step-mother
 childcare worker
 nursemaid
 woman of similar age to one's parents (term of address used by child)
 CL:個|个[ge4]",792
-3,522,图书馆,圖書館,tu2 shu1 guan3,tú shū guǎn,"library, CL:家,個|个[gè],","library
+3,522,图书馆,圖書館,tu2 shu1 guan3,tú shū guǎn,library,"library
 CL:家[jia1],個|个[ge4]",768
-3,531,文化,文化,wen2 hua4,wén huà,"culture, civilization, cultural, CL:個|个,種|种[zhǒng],","culture
+3,531,文化,文化,wen2 hua4,wén huà,culture,"culture
 civilization
 cultural
 CL:個|个[ge4],種|种[zhong3]",752
-3,385,刮,刮,gua1,guā,"to blow (of the wind),","to scrape
+3,385,刮,刮,gua1,guā,"to scrape, to scratch, to shave
+to blow (of the wind)","to scrape
 to blow
 to shave
 to plunder
 to extort",750
-3,456,绿,綠,lu:4,lǜ,"green,","green
-(slang) (derived from 綠帽子|绿帽子[lu:4 mao4 zi5]) to cheat on (one's spouse or boyfriend or girlfriend)",749
-3,344,打扫,打掃,da3 sao3,dǎ sǎo,"to clean, to sweep,","to clean
+3,456,绿,綠,lv4,lǜ,green,"green
+(slang) (derived from 綠帽子|绿帽子[lv4 mao4 zi5]) to cheat on (one's spouse or boyfriend or girlfriend)",749
+3,344,打扫,打掃,da3 sao3,dǎ sǎo,"to clean, to sweep","to clean
 to sweep",744
-3,399,花园,花園,hua1 yuan2,huā yuán,"garden, CL:座,個|个[gè],","garden
+3,399,花园,花園,hua1 yuan2,huā yuán,garden,"garden
 CL:座[zuo4],個|个[ge4]",744
-3,330,草,艸,cao3,cǎo,"grass, straw, manuscript, draft (of a document), careless, rough, CL:棵,撮,株,根[gēn],",variant of 草[cao3],743
-3,326,冰箱,冰箱,bing1 xiang1,bīng xiāng,"icebox, freezer cabinet, refrigerator, CL:臺|台,個|个[gè],","icebox
+3,330,草,草,cao3,cǎo,"grass, straw",,743
+3,326,冰箱,冰箱,bing1 xiang1,bīng xiāng,"refrigerator, icebox","icebox
 freezer cabinet
 refrigerator
 CL:臺|台[tai2],個|个[ge4]",739
-3,504,数学,數學,shu4 xue2,shù xué,"mathematics, mathematical,","mathematics
+3,504,数学,數學,shu4 xue2,shù xué,mathematics,"mathematics
 mathematical",735
-3,580,着急,著急,zhao2 ji2,zháo jí,"to worry, to feel anxious, Taiwan pron. [zhāo jí],","to worry; to feel anxious
+3,580,着急,著急,zhao2 ji2,zháo jí,"to worry, to feel anxious
+implies urgency, pressure","to worry; to feel anxious
 to feel a sense of urgency; to be in a hurry
 Taiwan pr. [zhao1 ji2]",700
-3,500,瘦,瘦,shou4,shòu,"thin, to lose weight, (of clothing) tight, (of meat) lean, (of land) unproductive,","thin
+3,500,瘦,瘦,shou4,shòu,"thin, lean, to lose weight","thin
 to lose weight
 (of clothing) tight
 (of meat) lean
 (of land) unproductive",682
-3,514,提高,提高,ti2 gao1,tí gāo,"to raise, to increase,","to raise
+3,514,提高,提高,ti2 gao1,tí gāo,"to raise, to increase, to improve","to raise
 to increase
 to improve",679
-3,303,矮,矮,ai3,ǎi,"low, short (in length),","low
+3,303,矮,矮,ai3,ǎi,"short (height), low","low
 short (in length)",629
-3,354,地铁,地鐵,di4 tie3,dì tiě,"subway, metro,","underground railway; subway
+3,354,地铁,地鐵,di4 tie3,dì tiě,"subway, metro","underground railway; subway
 subway train",625
-3,515,体育,體育,ti3 yu4,tǐ yù,"sports, physical education,","sports
+3,515,体育,體育,ti3 yu4,tǐ yù,sports,"sports
 physical education",623
-3,438,刻,刻,ke4,kè,"quarter (hour), moment, to carve, to engrave, to cut, oppressive, classifier for short time intervals,","quarter (hour)
+3,438,刻,刻,ke4,kè,"moment, quarter-hour","quarter (hour)
 moment
 to carve
 to engrave
 to cut
 oppressive
 classifier for short time intervals",600
-3,397,护照,護照,hu4 zhao4,hù zhào,"passport, CL:本,個|个[gè],","passport
+3,397,护照,護照,hu4 zhao4,hù zhào,passport,"passport
 CL:本[ben3],個|个[ge4]",574
-3,423,节日,節日,jie2 ri4,jié rì,"holiday, festival, CL:個|个[gè],","holiday
+3,423,节日,節日,jie2 ri4,jié rì,"holiday, festival","holiday
 festival
 CL:個|个[ge4]",570
-3,505,刷,刷,shua1,shuā,"to brush, to paint, to daub, to paste up, to skip class (of students), to fire from a job,","to brush
+3,505,刷,刷,shua1,shuā,to brush,"to brush
 to paint
 to daub
 to paste up
 to skip class (of students)
 to fire from a job",550
-3,475,盘子,盤子,pan2 zi5,pán zi,"tray, plate, dish, CL:個|个[gè],","tray
+3,475,盘子,盤子,pan2 zi5,pán zi,"plate, dish, tray","tray
 plate
 dish
 CL:個|个[ge4]",535
-3,557,一共,一共,yi1 gong4,yī gòng,"altogether,",altogether,507
-3,421,街道,街道,jie1 dao4,jiē dào,"street, CL:條|条[tiáo], subdistrict, residential district,","street
+3,557,一共,一共,yi1 gong4,yī gòng,altogether,altogether,507
+3,421,街道,街道,jie1 dao4,jiē dào,"street, district","street
 CL:條|条[tiao2]
 subdistrict
 residential district",492
-3,391,果汁,果汁,guo3 zhi1,guǒ zhī,"fruit juice,",fruit juice,463
-3,363,锻炼,鍛鍊,duan4 lian4,duàn liàn,"to engage in physical exercise, to work out, to toughen, to temper,","to toughen
+3,391,果汁,果汁,guo3 zhi1,guǒ zhī,fruit juice,fruit juice,463
+3,363,锻炼,鍛鍊,duan4 lian4,duàn liàn,"to work out, physical fitness exercises","to toughen
 to temper
 to engage in physical exercise
 to work out
 (fig.) to develop one's skills
 to train oneself",457
-3,378,感冒,感冒,gan3 mao4,gǎn mào,"to catch cold, (common) cold, CL:場|场,次[cì],","to catch cold
+3,378,感冒,感冒,gan3 mao4,gǎn mào,(common) cold,"to catch cold
 (common) cold
 CL:場|场[chang2],次[ci4]
 (coll.) to be interested in (often used in the negative)
 (Tw) to detest
 can't stand",457
-3,304,爱好,愛好,ai4 hao4,ài hào,"to like, to take pleasure in, keen on, fond of, interest, hobby, appetite for, CL:個|个[gè],","to like; to be fond of; to take pleasure in; to be keen on
+3,304,爱好,愛好,ai4 hao4,ài hào,hobby,"to like; to be fond of; to take pleasure in; to be keen on
 interest; hobby
 CL:個|个[ge4]",452
-3,333,超市,超市,chao1 shi4,chāo shì,"supermarket (abbr.), CL:家[jiā],","supermarket (abbr. for 超級市場|超级市场[chao1 ji2 shi4 chang3])
+3,333,超市,超市,chao1 shi4,chāo shì,supermarket,"supermarket (abbr. for 超級市場|超级市场[chao1 ji2 shi4 chang3])
 CL:家[jia1]",440
-3,577,月亮,月亮,yue4 liang5,yuè liang,"moon,",the moon,429
-3,314,饱,飽,bao3,bǎo,"to eat till full, satisfied,","to eat till full
+3,577,月亮,月亮,yue4 liang5,yuè liang,the moon,the moon,429
+3,314,饱,飽,bao3,bǎo,"to eat till full, satisfied","to eat till full
 satisfied",425
-3,572,有名,有名,you3 ming2,yǒu míng,"famous, well-known,","famous
+3,572,有名,有名,you3 ming2,yǒu míng,"famous, well-known","famous
 well-known",404
-3,538,香蕉,香蕉,xiang1 jiao1,xiāng jiāo,"banana, CL:枝,根,個|个,把[bǎ],","banana
+3,538,香蕉,香蕉,xiang1 jiao1,xiāng jiāo,banana,"banana
 CL:枝[zhi1],根[gen1],個|个[ge4],把[ba3]",395
-3,325,宾馆,賓館,bin1 guan3,bīn guǎn,"guesthouse, lodge, hotel, CL:個|个,家[jiā],","guesthouse
+3,325,宾馆,賓館,bin1 guan3,bīn guǎn,"guesthouse, lodge, inn","guesthouse
 lodge
 hotel
 CL:個|个[ge4],家[jia1]",381
-3,578,云,云,yun2,yún,"cloud, CL:朵[duǒ],",(classical) to say,363
-3,536,夏,夏,Xia4,xià,"summer,","the Xia or Hsia dynasty c. 2000 BC
+3,578,云,雲,yun2,yún,cloud,(classical) to say,363
+3,536,夏,夏,xia4,xià,summer,"the Xia or Hsia dynasty c. 2000 BC
 Xia of the Sixteen Kingdoms (407-432)
 surname Xia",359
-3,328,菜单,菜單,cai4 dan1,cài dān,"menu, CL:份,張|张[zhāng],","menu
+3,328,菜单,菜單,cai4 dan1,cài dān,menu,"menu
 CL:份[fen4],張|张[zhang1]",325
-3,315,北方,北方,bei3 fang1,běi fāng,"north, the northern part a country, China north of the Yellow River,","north
+3,315,北方,北方,bei3 fang1,běi fāng,"North (direction, region)","north
 the northern part a country
 China north of the Yellow River",324
-3,495,上网,上網,shang4 wang3,shàng wǎng,"to be on the internet, to stretch a net (in a sports game or for covering sth), to be netted (of fish),","to go online
+3,495,上网,上網,shang4 wang3,shàng wǎng,"to go online, surf the internet","to go online
 to connect to the Internet
 (of a document etc) to be uploaded to the Internet
 (tennis, volleyball etc) to move in close to the net",324
-3,411,季节,季節,ji4 jie2,jì jié,"time, season, period, CL:個|个[gè],","time
+3,411,季节,季節,ji4 jie2,jì jié,season,"time
 season
 period
 CL:個|个[ge4]",308
-3,463,面条,麵條,mian4 tiao2,miàn tiáo,"noodles,",noodles,295
-3,368,发烧,發燒,fa1 shao1,fā shāo,"to have a high temperature (from illness), to have a fever,","to have a high temperature (from illness)
+3,463,面条,麵條,mian4 tiao2,miàn tiáo,noodles,noodles,295
+3,368,发烧,發燒,fa1 shao1,fā shāo,(to have a) fever,"to have a high temperature (from illness)
 to have a fever",292
-3,436,渴,渴,ke3,kě,"thirsty,",thirsty,292
-3,440,空调,空調,kong1 tiao2,kōng tiáo,"air conditioning,","air conditioning
+3,436,渴,渴,ke3,kě,thirsty,thirsty,292
+3,440,空调,空調,kong1 tiao2,kōng tiáo,air conditioning,"air conditioning
 air conditioner (including units that have a heating mode)
 CL:臺|台[tai2]",251
-3,583,照相机,照相機,zhao4 xiang4 ji1,zhào xiàng jī,"camera, CL:個|个,架,部,台,隻|只[zhī],","camera
+3,583,照相机,照相機,zhao4 xiang4 ji1,zhào xiàng jī,camera,"camera
 CL:個|个[ge4],架[jia4],部[bu4],台[tai2],隻|只[zhi1]",250
-3,484,铅笔,鉛筆,qian1 bi3,qiān bǐ,"(lead) pencil, CL:支,枝,桿|杆[gǎn],","(lead) pencil
+3,484,铅笔,鉛筆,qian1 bi3,qiān bǐ,pencil,"(lead) pencil
 CL:支[zhi1],枝[zhi1],桿|杆[gan3]",244
-3,341,春,旾,chun1,chūn,"spring (time), gay, joyful, youthful, love, lust, life,",old variant of 春[chun1],241
-3,478,葡萄,葡萄,pu2 tao5,pú tao,"grape,",grape,238
-3,494,伞,傘,san3,sǎn,"umbrella, parasol, CL:把[bǎ],","umbrella
+3,341,春,春,chun1,chūn,spring (season),,241
+3,478,葡萄,葡萄,pu2 tao2,pú tao,grape,grape,238
+3,494,伞,傘,san3,sǎn,umbrella,"umbrella
 parasol
 CL:把[ba3]",227
-3,550,熊猫,熊貓,xiong2 mao1,xióng māo,"panda, CL:隻|只[zhī],","panda
+3,550,熊猫,熊貓,xiong2 mao1,xióng māo,panda,"panda
 CL:隻|只[zhi1]",203
-3,375,复习,復習,fu4 xi2,fù xí,"variant of 復習|复习, to revise, to review, revision,","to review
+3,375,复习,復習,fu4 xi2,fù xí,"to revise, to review, revision","to review
 revision
 CL:次[ci4]",166
-3,358,冬,冬,dong1,dōng,"sound of beating a drum, onomatopoeia for rat-a-tat etc,",winter,161
-3,594,字典,字典,zi4 dian3,zì diǎn,"dictionary, character dictionary, CL:本[běn],","Chinese character dictionary (containing entries for single characters, contrasted with a 詞典|词典[ci2 dian3], which has entries for words of one or more characters)
+3,358,冬,冬,dong1,dōng,winter,winter,161
+3,594,字典,字典,zi4 dian3,zì diǎn,dictionary,"Chinese character dictionary (containing entries for single characters, contrasted with a 詞典|词典[ci2 dian3], which has entries for words of one or more characters)
 (coll.) dictionary
 CL:本[ben3]",142
-3,342,词语,詞語,ci2 yu3,cí yǔ,"word (general term including monosyllables through to short phrases), term (e.g. technical term), expression,","word (general term including monosyllables through to short phrases)
+3,342,词语,詞語,ci2 yu3,cí yǔ,"word, expression, term (e.g. technical term)","word (general term including monosyllables through to short phrases)
 term (e.g. technical term)
 expression",134
-3,486,秋,秋,Qiu1,qiū,"a swing,",surname Qiu,134
-3,434,句子,句子,ju4 zi5,jù zi,"sentence, CL:個|个[gè],","sentence
+3,486,秋,秋,qiu1,qiū,"autumn, fall",,134
+3,434,句子,句子,ju4 zi5,ju4 zi5,sentence (language),"sentence
 CL:個|个[ge4]",119
-3,548,行李箱,行李箱,xing2 li5 xiang1,xíng li xiāng,"suitcase,","suitcase
+3,548,行李箱,行李箱,xing2 li5 xiang1,xíng li xiāng,"suitcase, baggage, overhead bin","suitcase
 baggage compartment
 overhead bin
 (car) trunk
 boot",112
-3,444,筷子,筷子,kuai4 zi5,kuài zi,"chopsticks, CL:對|对,根,把,雙|双[shuāng],","chopsticks
+3,444,筷子,筷子,kuai4 zi5,kuài zi,chopsticks,"chopsticks
 CL:對|对[dui4],根[gen1],把[ba3],雙|双[shuang1]",90
-3,474,爬山,爬山,pa2 shan1,pá shān,"to climb a mountain, to mountaineer, hiking, mountaineering,","to climb a mountain
+3,474,爬山,爬山,pa2 shan1,pá shān,"hiking, mountain climbing","to climb a mountain
 to mountaineer
 hiking
 mountaineering",77
-3,396,黑板,黑板,hei1 ban3,hēi bǎn,"blackboard, CL:塊|块,個|个[gè],","blackboard
+3,396,黑板,黑板,hei1 ban3,hēi bǎn,blackboard,"blackboard
 CL:塊|块[kuai4],個|个[ge4]",73
-3,479,普通话,普通話,pu3 tong1 hua4,pǔ tōng huà,"Mandarin (common language), Putonghua (common speech of the Chinese language), ordinary speech,","Mandarin (common language)
+3,479,普通话,普通話,pu3 tong1 hua4,pǔ tōng huà,Mandarin (common language),"Mandarin (common language)
 Putonghua (common speech of the Chinese language)
 ordinary speech",32
 4,693,对,對,dui4,duì,"couple, pair, to be opposite, to oppose, to face, versus, for, to, correct (answer), to answer, to reply, to direct (towards sth), right,","right; correct
@@ -2267,7 +2266,7 @@ at that time
 while",6935
 4,1169,至少,至少,zhi4 shao3,zhì shǎo,"at least, (to say the) least,","at least
 (to say the) least",6750
-4,890,律师,律師,lu:4 shi1,lǜ shī,"lawyer,",lawyer,6747
+4,890,律师,律師,lv4 shi1,lǜ shī,"lawyer,",lawyer,6747
 4,1054,无,無,wu2,wú,"-less, not to have, no, none, not, to lack, un-,","not to have
 no
 none
@@ -2309,7 +2308,7 @@ survey
 (opinion) poll
 CL:項|项[xiang4],個|个[ge4]",6319
 4,644,成功,成功,Cheng2 gong1,chéng gōng,"success, to succeed, CL:次,個|个[gè],","Chenggong or Chengkung town in Taitung County 臺東縣|台东县[Tai2 dong1 Xian4], southeast Taiwan",6305
-4,845,考虑,考慮,kao3 lu:4,kǎo lǜ,"to think over, to consider, consideration,","to think over
+4,845,考虑,考慮,kao3 lv4,kǎo lǜ,"to think over, to consider, consideration,","to think over
 to consider
 consideration",6295
 4,1138,约会,約會,yue1 hui4,yuē huì,"appointment, engagement, date, CL:次,個|个[gè], to arrange to meet,","appointment
@@ -2632,7 +2631,7 @@ to get away from",3062
 to keep sb company
 to assist
 old variant of 賠|赔[pei2]",3059
-4,704,法律,法律,fa3 lu:4,fǎ lǜ,"law, CL:條|条, 套, 個|个[gè],","law
+4,704,法律,法律,fa3 lv4,fǎ lǜ,"law, CL:條|条, 套, 個|个[gè],","law
 CL:條|条[tiao2], 套[tao4], 個|个[ge4]",3044
 4,1162,值得,值得,zhi2 de5,zhí de,"to be worth, to deserve,","to be worth
 to deserve",3033
@@ -4012,7 +4011,7 @@ good-for-nothing or queer character",11950
 5,2012,如何,如何,ru2 he2,rú hé,"how, what way, what,","how
 what way
 what",10879
-5,1902,女士,女士,nu:3 shi4,nǚ shì,"lady, madam, CL:個|个,位[wèi], Miss, Ms,","lady
+5,1902,女士,女士,nv3 shi4,nǚ shì,"lady, madam, CL:個|个,位[wèi], Miss, Ms,","lady
 madam
 CL:個|个[ge4],位[wei4]
 Miss
@@ -5942,7 +5941,7 @@ bundle
 parcel
 package
 CL:個|个[ge4]",601
-5,1498,妇女,婦女,fu4 nu:3,fù nǚ,"woman,",woman,600
+5,1498,妇女,婦女,fu4 nv3,fù nǚ,"woman,",woman,600
 5,1416,地毯,地毯,di4 tan3,dì tǎn,"carpet, rug,","carpet
 rug",599
 5,2486,总算,總算,zong3 suan4,zǒng suàn,"at long last, finally, on the whole,","at long last
@@ -7033,7 +7032,7 @@ able to fulfill (conditions or requirements)",229
 contrast
 ratio
 CL:個|个[ge4]",226
-5,1656,纪律,紀律,ji4 lu:4,jì lǜ,"discipline,",discipline,226
+5,1656,纪律,紀律,ji4 lv4,jì lǜ,"discipline,",discipline,226
 5,1544,构成,構成,gou4 cheng2,gòu chéng,"to constitute, to form, to compose, to make up, to configure (computing),","to constitute
 to form
 to compose
@@ -7051,7 +7050,7 @@ CL:條|条[tiao2]",224
 5,2146,体现,體現,ti3 xian4,tǐ xiàn,"to embody, to reflect, to incarnate,","to embody
 to reflect
 to incarnate",222
-5,1578,规律,規律,gui1 lu:4,guī lǜ,"rule (e.g. of science), law of behavior, regular pattern, rhythm, discipline,","rule (e.g. of science)
+5,1578,规律,規律,gui1 lv4,guī lǜ,"rule (e.g. of science), law of behavior, regular pattern, rhythm, discipline,","rule (e.g. of science)
 law of behavior
 regular pattern
 rhythm
@@ -7220,7 +7219,7 @@ to spend",188
 5,1207,岸,㟁,an4,àn,"bank, shore, beach, coast, CL:個|个[gè],",variant of 岸[an4],187
 5,2366,预订,預訂,yu4 ding4,yù dìng,"to place an order, to book ahead,","to place an order
 to book ahead",186
-5,2262,效率,效率,xiao4 lu:4,xiào lǜ,"efficiency,",efficiency,185
+5,2262,效率,效率,xiao4 lv4,xiào lǜ,"efficiency,",efficiency,185
 5,1624,缓解,緩解,huan3 jie3,huǎn jiě,"to blunt, to dull, to ease, to help relieve (a crisis), to alleviate (pain),","to bring relief
 to alleviate (a crisis)
 to dull (a pain)",181
@@ -7308,7 +7307,7 @@ to compliment",163
 5,1446,躲藏,躲藏,duo3 cang2,duǒ cáng,"to hide oneself,","to conceal oneself
 to go into hiding
 to take cover",162
-5,1965,侵略,侵略,qin1 lu:e4,qīn lvè,"invasion, encroachment,","to invade
+5,1965,侵略,侵略,qin1 lve4,qīn lvè,"invasion, encroachment,","to invade
 invasion",162
 5,2355,邮局,郵局,you2 ju2,yóu jú,"post office, CL:家,個|个[gè],","post office
 CL:家[jia1],個|个[ge4]",162
@@ -7855,7 +7854,7 @@ widespread
 well-distributed
 homogeneous
 well-proportioned (figure, body etc)",43
-5,2052,省略,省略,sheng3 lu:e4,shěng lvè,"to leave out, an omission,","to leave out
+5,2052,省略,省略,sheng3 lve4,shěng lvè,"to leave out, an omission,","to leave out
 an omission",43
 5,1321,吃亏,吃虧,chi1 kui1,chī kuī,"to suffer losses, to come to grief, to lose out, to get the worst of it, to be at a disadvantage, unfortunately,","to suffer losses
 to come to grief
@@ -7956,7 +7955,7 @@ notes",14
 5,2369,元旦,元旦,Yuan2 dan4,yuán dàn,"New Year's Day,",New Year's Day,14
 5,1620,华裔,華裔,Hua2 yi4,Huá yì,"ethnic Chinese, non-Chinese citizen of Chinese ancestry,","ethnic Chinese
 non-Chinese citizen of Chinese ancestry",13
-5,1636,汇率,匯率,hui4 lu:4,huì lǜ,"exchange rate,",exchange rate,13
+5,1636,汇率,匯率,hui4 lv4,huì lǜ,"exchange rate,",exchange rate,13
 5,1713,解说员,解說員,jie3 shuo1 yuan2,jiě shuō yuán,"commentator,",commentator,13
 5,1725,近代,近代,jin4 dai4,jìn dài,"modern times,","the not-very-distant past
 modern times, excluding recent decades
@@ -8825,7 +8824,7 @@ to look out",674
 6,4965,字母,字母,zi4 mu3,zì mǔ,"letter (of the alphabet), CL:個|个[gè],","letter (of the alphabet)
 CL:個|个[ge4]",672
 6,3635,乐趣,樂趣,le4 qu4,lè qù,"delight, pleasure, joy,",delight; pleasure; joy,670
-6,3828,虐待,虐待,nu:e4 dai4,nvè dài,"to mistreat, to maltreat, to abuse, mistreatment, maltreatment,","to mistreat
+6,3828,虐待,虐待,nve4 dai4,nvè dài,"to mistreat, to maltreat, to abuse, mistreatment, maltreatment,","to mistreat
 to maltreat
 to abuse
 mistreatment
@@ -8874,7 +8873,7 @@ Japanese manga",645
 6,3455,角落,角落,jiao3 luo4,jiǎo luò,"nook, corner,",nook; corner,641
 6,4717,预言,預言,yu4 yan2,yù yán,"to predict, prophecy,","to predict
 prophecy",641
-6,2716,策略,策略,ce4 lu:e4,cè lvè,"tactics, to be tactful,","strategy; tactics
+6,2716,策略,策略,ce4 lve4,cè lvè,"tactics, to be tactful,","strategy; tactics
 crafty; adroit",639
 6,3688,领先,領先,ling3 xian1,lǐng xiān,"to lead, to be in front,","to lead
 to be in front",638
@@ -9219,7 +9218,7 @@ pattern",501
 6,3078,风暴,風暴,feng1 bao4,fēng bào,"storm, violent commotion, fig. crisis (e.g. revolution, uprising, financial crisis etc),","storm
 violent commotion
 fig. crisis (e.g. revolution, uprising, financial crisis etc)",499
-6,3298,忽略,忽略,hu1 lu:e4,hū lvè,"to neglect, to overlook, to ignore,",to neglect; to overlook; to ignore,499
+6,3298,忽略,忽略,hu1 lve4,hū lvè,"to neglect, to overlook, to ignore,",to neglect; to overlook; to ignore,499
 6,4342,外表,外表,wai4 biao3,wài biǎo,"external, outside, outward appearance,","external
 outside
 outward appearance",498
@@ -9300,7 +9299,7 @@ honor
 majesty",462
 6,4176,收音机,收音機,shou1 yin1 ji1,shōu yīn jī,"radio, CL:臺|台[tái],","radio
 CL:臺|台[tai2]",460
-6,2541,伴侣,伴侶,ban4 lu:3,bàn lǚ,"companion, mate, partner,","companion
+6,2541,伴侣,伴侶,ban4 lv3,bàn lǚ,"companion, mate, partner,","companion
 mate
 partner",458
 6,4758,遭受,遭受,zao1 shou4,zāo shòu,"to suffer, to sustain (loss, misfortune),","to suffer; to sustain (loss, misfortune)",456
@@ -9941,7 +9940,7 @@ implied meaning
 hidden meaning
 hint
 connotation",323
-6,3874,频率,頻率,pin2 lu:4,pín lǜ,"frequency,",frequency,323
+6,3874,频率,頻率,pin2 lv4,pín lǜ,"frequency,",frequency,323
 6,4960,资助,資助,zi1 zhu4,zī zhù,"to subsidize, to provide financial aid, subsidy,","to subsidize
 to provide financial aid
 subsidy",322
@@ -10032,7 +10031,7 @@ yet",308
 6,4398,无耻,無恥,wu2 chi3,wú chǐ,"without any sense of shame, unembarrassed, shameless,","without any sense of shame
 unembarrassed
 shameless",308
-6,4783,战略,戰略,zhan4 lu:e4,zhàn lvè,"strategy,",strategy,308
+6,4783,战略,戰略,zhan4 lve4,zhàn lvè,"strategy,",strategy,308
 6,3085,封闭,封閉,feng1 bi4,fēng bì,"to seal, to close, to confine, to seal off, to close down, sealed, confined, closed, unreceptive,","to close; to seal off
 to close down (an illegal venue)
 closed (i.e. isolated from outside input)",306
@@ -10360,7 +10359,7 @@ to blackmail",251
 6,2515,昂贵,昂貴,ang2 gui4,áng guì,"expensive, costly,","expensive
 costly",250
 6,2697,彩票,彩票,cai3 piao4,cǎi piào,"lottery ticket,",lottery ticket,250
-6,3715,履行,履行,lu:3 xing2,lǚ xíng,"to fulfill (one's obligations), to carry out (a task), to implement (an agreement), to perform,","to fulfill (one's obligations)
+6,3715,履行,履行,lv3 xing2,lǚ xíng,"to fulfill (one's obligations), to carry out (a task), to implement (an agreement), to perform,","to fulfill (one's obligations)
 to carry out (a task)
 to implement (an agreement)
 to perform",250
@@ -10761,7 +10760,7 @@ quality (of a product or service, or as in 'quality of life', 'air quality' etc)
 6,4038,任命,任命,ren4 ming4,rèn mìng,"to appoint and nominate, (job) appointment, CL:紙|纸[zhǐ],","to appoint
 (job) appointment
 CL:紙|纸[zhi3]",202
-6,4554,旋律,旋律,xuan2 lu:4,xuán lǜ,"melody, rhythm,",melody,202
+6,4554,旋律,旋律,xuan2 lv4,xuán lǜ,"melody, rhythm,",melody,202
 6,4825,争议,爭議,zheng1 yi4,zhēng yì,"controversy, dispute, to dispute,","controversy
 dispute
 to dispute",202
@@ -11530,7 +11529,7 @@ to emphasize",136
 cannot stand
 utterly
 extremely",135
-6,3716,掠夺,掠奪,lu:e4 duo2,lvè duó,"to plunder, to rob, also written 略奪|略夺,","to plunder
+6,3716,掠夺,掠奪,lve4 duo2,lvè duó,"to plunder, to rob, also written 略奪|略夺,","to plunder
 to rob",135
 6,4126,胜负,勝負,sheng4 fu4,shèng fù,"victory or defeat, the outcome of a battle,","victory or defeat
 the outcome of a battle",135
@@ -11689,7 +11688,7 @@ able
 smart (phone, system, bomb etc)",127
 6,2607,必定,必定,bi4 ding4,bì dìng,"be bound to, be sure to,","to be bound to
 to be sure to",126
-6,3211,顾虑,顧慮,gu4 lu:4,gù lǜ,"misgivings, apprehensions,","misgivings
+6,3211,顾虑,顧慮,gu4 lv4,gù lǜ,"misgivings, apprehensions,","misgivings
 apprehensions",126
 6,3506,经费,經費,jing1 fei4,jīng fèi,"funds, expenditure, CL:筆|笔[bǐ],","funds
 expenditure
@@ -11898,7 +11897,7 @@ sumptuous",114
 6,4869,制裁,制裁,zhi4 cai2,zhì cái,"to punish, punishment, sanctions (incl. economic),","to punish
 punishment
 sanctions (incl. economic)",114
-6,3245,过滤,過濾,guo4 lu:4,guò lǜ,"to filter, filter,","to filter
+6,3245,过滤,過濾,guo4 lv4,guò lǜ,"to filter, filter,","to filter
 filter",113
 6,3767,渺小,渺小,miao3 xiao3,miǎo xiǎo,"minute, tiny, negligible, insignificant,","minute
 tiny
@@ -12911,7 +12910,7 @@ magnificent",62
 unable to find a way out",62
 6,3871,拼搏,拼搏,pin1 bo2,pīn bó,"to struggle, to wrestle,","to struggle
 to wrestle",62
-6,4410,无忧无虑,無憂無慮,wu2 you1 wu2 lu:4,wú yōu wú lǜ,"carefree and without worries (idiom),",carefree and without worries (idiom),62
+6,4410,无忧无虑,無憂無慮,wu2 you1 wu2 lv4,wú yōu wú lǜ,"carefree and without worries (idiom),",carefree and without worries (idiom),62
 6,4476,向来,向來,xiang4 lai2,xiàng lái,"always (previously),",always (previously),62
 6,4618,要素,要素,yao4 su4,yào sù,"essential factor, key constituent,","essential factor
 key constituent",62
@@ -13612,7 +13611,7 @@ to soak
 to immerse",37
 6,3627,栏目,欄目,lan2 mu4,lán mù,"regular column or segment (in a publication or broadcast program), program (TV or radio),","regular column or segment (in a publication or broadcast program)
 program (TV or radio)",37
-6,3657,利率,利率,li4 lu:4,lì lǜ,"interest rates,",interest rates,37
+6,3657,利率,利率,li4 lv4,lì lǜ,"interest rates,",interest rates,37
 6,4366,威信,威信,Wei1 xin4,wēi xìn,"prestige, reputation, trust, credit with the people,","Weixin county in Zhaotong 昭通[Zhao1 tong1], Yunnan",37
 6,4383,慰问,慰問,wei4 wen4,wèi wèn,"to express sympathy, greetings, consolation etc,","to express sympathy, greetings, consolation etc",37
 6,4600,眼色,眼色,yan3 se4,yǎn sè,"a wink, to signal with one's eyes,","signal made with one's eyes
@@ -13776,7 +13775,7 @@ to placate",31
 6,4419,误差,誤差,wu4 cha1,wù chā,"difference, error, inaccuracy,","difference
 error
 inaccuracy",31
-6,4632,一律,一律,yi1 lu:4,yī lǜ,"same, uniformly, all, without exception,","same
+6,4632,一律,一律,yi1 lv4,yī lǜ,"same, uniformly, all, without exception,","same
 uniformly
 all
 without exception",31
@@ -14183,7 +14182,7 @@ layout",19
 6,3419,剪彩,剪彩,jian3 cai3,jiǎn cǎi,"to cut the ribbon (at a launching or opening ceremony),",to cut the ribbon (at a launching or opening ceremony),19
 6,3439,舰艇,艦艇,jian4 ting3,jiàn tǐng,"warship, naval vessel,","warship
 naval vessel",19
-6,3717,略微,略微,lu:e4 wei1,lvè wēi,"a little bit, slightly,","a little bit
+6,3717,略微,略微,lve4 wei1,lvè wēi,"a little bit, slightly,","a little bit
 slightly",19
 6,3824,浓厚,濃厚,nong2 hou4,nóng hòu,"dense, thick (fog, clouds etc), to have a strong interest in, deep, fully saturated (color),","dense
 thick (fog, clouds etc)
@@ -14276,7 +14275,7 @@ to echo (what sb says)",16
 6,3436,见义勇为,見義勇為,jian4 yi4 yong3 wei2,jiàn yì yǒng wéi,"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth, acting heroically in a just cause,","to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth
 acting heroically in a just cause",16
 6,3620,扩充,擴充,kuo4 chong1,kuò chōng,"to expand,",to expand,16
-6,3714,屡次,屢次,lu:3 ci4,lǚ cì,"repeatedly, time and again,","repeatedly
+6,3714,屡次,屢次,lv3 ci4,lǚ cì,"repeatedly, time and again,","repeatedly
 time and again",16
 6,3784,磨合,磨合,mo2 he2,mó hé,"to break in, to wear in,","to break in
 to wear in",16
